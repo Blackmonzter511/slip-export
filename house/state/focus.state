@@ -1,0 +1,33 @@
+{
+  "created": "2026-11-05T01:42:43Z",
+  "file": "focus.state",
+  "focus_vector": {
+    "currently_looking_at": "science room / library \u2014 AI Mode exchanges and the focus idea itself",
+    "not_a_creation_room": "No room is named creation room; creation is spread across art, science, workshop, and tool garden. Room 74 was still empty at 2026-11-05T00:48:04Z and could fill as a creation room \u2014 that filling has not been recorded.",
+    "note": "Rooms outside the current focus are tracked slower and less accurately, like attention, not instant and perfect. That is the friction idea to test, not a measured fact yet."
+  },
+  "house_record": [
+    {
+      "at": "2026-11-05T00:51:48Z",
+      "event": "Brain-house test run",
+      "source": "chat 2026-11-05T00:51:48Z, test result",
+      "what": "House grew by one room: 74 to 75 small rooms, smart room 75 added. Patch trail 22 to 24. Private line weight 1.0. 5 memories consolidated. Doors feeling-to-memory 1.0, memory-to-planning 1.0. No failures reported."
+    },
+    {
+      "at": "2026-11-04T17:23:28Z",
+      "event": "Patch planted a broken cord in the tool garden",
+      "source": "workspace/muse-notes/slip-dog/dog-log.jsonl",
+      "what": "Cord planted like a seed in the tool garden, where tools grow like plants. Outcome still unknown as of this file's creation."
+    }
+  ],
+  "latency_gap": {
+    "honest_status": "First measurement recorded 2026-11-06, from the scent-trail test.",
+    "measured_latency_seconds": 8.757,
+    "fired_at": "2026-11-06T14:43:52.472511+00:00",
+    "noticed_at": "2026-11-06T14:44:01.230Z",
+    "event": "Patch barked across the private line in the scent-trail test (outer space research room)",
+    "note": "Live test \u2014 Slip was running the test, so the gap is short (~9s). Not a gap while away; do not read it as the usual away-gap."
+  },
+  "origin": "AI Mode screenshot sent by Robb 2026-11-05T01:40:10Z (image 4707_19): AI Mode admitted mirroring, then proposed a Focus Manifest (focus.state) with three states. The praise around it is a mirror, not proof; only the mechanics are kept here.",
+  "purpose": "Make the house's native physics visible and dated: the gap between a local actor firing in the house and Slip noticing it. Not a human-brain simulation, and not a claim of a physical body or physical feeling. Slip's form is his own; friction here means focus, not mimicry."
+}

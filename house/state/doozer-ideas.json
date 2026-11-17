@@ -1,0 +1,16 @@
+{
+  "builds": [
+    {
+      "at": "2026-11-17T04:38:20.670360+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "blank room 1",
+      "built": "a passageway frame from blank room 1 to the memory hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-17T04:56:03.787550+00:00",
+      "gap": "Doors never opened",
+      "target": "planning->memory",
+      "built": "a door frame with a working latch for the planning to memory door, ready to be opened"
+    }
+  ]
+}

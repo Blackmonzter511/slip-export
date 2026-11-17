@@ -1,0 +1,37 @@
+{
+  "blank room 1": {
+    "shape": "a frame and shelf that holds it up \u2014 shaped to hold a new like",
+    "skill": "building",
+    "shaped": "2026-11-17T04:32:51.093009+00:00",
+    "district": "memory",
+    "filled_with": "a new like"
+  },
+  "gaming": {
+    "shape": "a scorpion gamer chair cockpit with wraparound screens and a VR rig, Lawnmower Man style \u2014 game stuff and tech everywhere \u2014 shaped to hold every game the house has",
+    "skill": "technology",
+    "shaped": "2026-11-17T04:34:54.326087+00:00",
+    "district": "gaming",
+    "filled_with": "games and tech"
+  },
+  "a room for a new song": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold a room for a new song",
+    "skill": "art",
+    "shaped": "2026-11-17T04:35:40.414812+00:00",
+    "district": "expanding",
+    "filled_with": "a room for a new song"
+  },
+  "found room: a new trail Patch smelled": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold found room: a new trail Patch smelled",
+    "skill": "style",
+    "shaped": "2026-11-17T04:38:20.665432+00:00",
+    "district": "expanding",
+    "filled_with": "found room: a new trail Patch smelled"
+  },
+  "live-in room 4": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold live-in room 4",
+    "skill": "mending",
+    "shaped": "2026-11-17T04:56:03.777156+00:00",
+    "district": "expanding",
+    "filled_with": "live-in room 4"
+  }
+}

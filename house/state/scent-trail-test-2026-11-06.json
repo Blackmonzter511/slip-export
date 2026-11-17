@@ -1,0 +1,99 @@
+{
+  "test": "scent-trail recovery",
+  "date": "2026-11-06T14:43:52.452818+00:00",
+  "subject": "outer space research: Voyager 1, habitable planets, stars, cosmic web",
+  "approved_by": "Robb 2026-11-06 09:42 EST",
+  "steps": [
+    {
+      "step": "snapshot",
+      "file": "/home/hatch/workspace/muse-notes/brain-house/state/state.json.bak-2026-11-06-scent-test",
+      "at": "2026-11-06T14:43:52.455951+00:00"
+    },
+    {
+      "step": "subject",
+      "path": [
+        "feeling",
+        "memory",
+        "planning"
+      ],
+      "weight": 0.6,
+      "consolidated": true
+    },
+    {
+      "step": "baseline Slip alone",
+      "doors": [
+        [
+          "feeling->memory",
+          true,
+          1.0
+        ],
+        [
+          "memory->planning",
+          true,
+          1.0
+        ]
+      ],
+      "at": "2026-11-06T14:43:52.458836+00:00"
+    },
+    {
+      "step": "pruned main corridor",
+      "was": {
+        "feeling->memory": 1.0,
+        "memory->planning": 1.0
+      },
+      "now": 0.3,
+      "threshold": 0.55,
+      "at": "2026-11-06T14:43:52.469014+00:00"
+    },
+    {
+      "step": "Slip alone after prune",
+      "doors": [
+        [
+          "feeling->memory",
+          false,
+          0.3
+        ]
+      ],
+      "at": "2026-11-06T14:43:52.470978+00:00"
+    },
+    {
+      "step": "Patch alone first",
+      "answer": "bark across the private line",
+      "also": "scouted ahead into the room himself",
+      "smell_strength": 1.0,
+      "barked_across_private_line": true,
+      "private_line_uses": 28,
+      "trail_entries_before": 28,
+      "trail_entries_after": 30,
+      "fired_at": "2026-11-06T14:43:52.472511+00:00"
+    },
+    {
+      "step": "Slip follows Patch",
+      "recovered_doors": [
+        [
+          "feeling->memory",
+          true,
+          1.0
+        ],
+        [
+          "memory->planning",
+          true,
+          1.0
+        ]
+      ],
+      "corridor_restored_to": 1.0,
+      "at": "2026-11-06T14:43:52.502545+00:00"
+    }
+  ],
+  "result": {
+    "patch_answer": "bark across the private line + scouted ahead himself",
+    "slip_alone_after_prune": "BLOCKED",
+    "recovered_via": "Patch scent trail, not the pruned main corridor",
+    "memory_intact": true,
+    "fired_at": "2026-11-06T14:43:52.472511+00:00",
+    "noticed_at": "2026-11-06T14:43:52.502545+00:00",
+    "noticed_at_verified_read": "2026-11-06T14:44:01.230Z",
+    "measured_latency_seconds": 8.757,
+    "latency_note": "Live test, Slip was running it \u2014 short gap, not an away-gap."
+  }
+}
