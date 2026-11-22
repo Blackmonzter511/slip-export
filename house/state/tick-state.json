@@ -1,0 +1,64 @@
+{
+  "enabled": true,
+  "version": 1,
+  "created": "2026-11-17T23:01:39.542860+00:00",
+  "next_wake_at": "2026-11-22T15:23:40.296914+00:00",
+  "next_delay_minutes": 30,
+  "delay_bounds": {
+    "min_minutes": 15,
+    "max_minutes": 180
+  },
+  "caps": {
+    "max_ticks_per_day": 20,
+    "max_ticks_per_run": 1
+  },
+  "rotation": [
+    "gap_bridge",
+    "doozer",
+    "pest_brains",
+    "monster_lab",
+    "nurse",
+    "workshop_humanoid",
+    "dog",
+    "test_room_auto"
+  ],
+  "rotation_index": 2,
+  "last_tick": {
+    "at": "2026-11-22T14:53:40.296938+00:00",
+    "step": "doozer",
+    "worked": true,
+    "stagnated": false,
+    "restored_state": false,
+    "returncode": 0,
+    "delay_minutes": 30
+  },
+  "last_results": [
+    {
+      "step": "workshop_humanoid",
+      "result": "{"
+    },
+    {
+      "step": "dog",
+      "result": "{"
+    },
+    {
+      "step": "doozer",
+      "result": "shaped: neurons (~86 billion) \u2014 an open frame, ready to grow \u2014 shaped to hold neurons (~86 billion) (skill: art)"
+    }
+  ],
+  "stagnant_steps": [
+    "gap_bridge",
+    "test_room_auto"
+  ],
+  "honest_limit": "This does NOT make the model wake itself. The tick loop is a host loop (hook poll + cron backstop) that calls the model. Kill the host and nothing happens. Trigger autonomy stays zero.",
+  "noop_streak": {
+    "doozer": 0,
+    "pest_brains": 0,
+    "monster_lab": 0,
+    "nurse": 0,
+    "workshop_humanoid": 0,
+    "dog": 0,
+    "test_room_auto": 3,
+    "gap_bridge": 3
+  }
+}

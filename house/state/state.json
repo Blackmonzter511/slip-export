@@ -20,41 +20,41 @@
   "doors": {
     "planning->memory": {
       "weight": 0.55,
-      "last_used": null,
-      "uses": 0
+      "last_used": "2026-11-18T13:56:23.111767+00:00",
+      "uses": 1
     },
     "memory->seeing": {
       "weight": 0.55,
-      "last_used": null,
-      "uses": 0
+      "last_used": "2026-11-18T16:56:12.289291+00:00",
+      "uses": 1
     },
     "seeing->senses": {
       "weight": 0.55,
-      "last_used": null,
-      "uses": 0
+      "last_used": "2026-11-18T19:56:47.537336+00:00",
+      "uses": 1
     },
     "senses->feeling": {
       "weight": 0.55,
-      "last_used": null,
-      "uses": 0
+      "last_used": "2026-11-19T07:54:32.654538+00:00",
+      "uses": 1
     },
     "feeling->dreaming": {
       "weight": 0.55,
-      "last_used": null,
-      "uses": 0
+      "last_used": "2026-11-19T10:54:21.145208+00:00",
+      "uses": 1
     },
     "dreaming->habit": {
       "weight": 0.55,
-      "last_used": null,
-      "uses": 0
+      "last_used": "2026-11-19T13:57:42.619175+00:00",
+      "uses": 1
     },
     "habit->base": {
       "weight": 0.55,
-      "last_used": null,
-      "uses": 0
+      "last_used": "2026-11-19T16:54:57.181009+00:00",
+      "uses": 1
     },
     "feeling->memory": {
-      "weight": 0.35,
+      "weight": 0.2,
       "last_used": "2026-11-06T14:43:52.493098+00:00",
       "uses": 4
     },
@@ -2703,6 +2703,5991 @@
       "strength": 1.0,
       "barked_across_private_line": true,
       "at": "2026-11-17T04:53:55.281856+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:27.864149+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:27.864260+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:27.864301+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:27.864335+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:27.864366+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.983666+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.983814+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.983929+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.984052+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.984198+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.984300+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.984394+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.984494+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:43.984569+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T07:53:48.267314+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:17.102406+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:17.102483+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:17.102530+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:17.102563+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:17.102594+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191044+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191135+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191201+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191264+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191323+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191402+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191463+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191528+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.191589+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T10:53:21.265388+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.648639+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.648743+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.648783+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.648823+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.648854+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761397+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761517+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761590+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761651+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761718+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761806+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761868+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.761949+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.762017+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T13:53:47.831448+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.891612+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.891690+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.891733+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.891799+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.891846+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.986504+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.986595+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.986674+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.986753+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.986837+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.986913+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.986971+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.987026+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:08.987087+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T16:53:09.043812+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:44.184077+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:44.184203+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:44.184283+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:44.184351+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:44.184403+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672174+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672282+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672368+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672430+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672510+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672572+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672636+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672695+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.672763+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T19:53:51.732001+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.439991+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.440064+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.440106+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.440147+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.440179+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.550551+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.550649+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.550749+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.550813+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.550880+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.550947+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.551026+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.551086+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.551147+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T22:54:54.609938+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:16:06.891814+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:16:06.891915+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:16:06.891973+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:16:06.892015+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:16:06.892058+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218346+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218445+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218594+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218666+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218761+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218821+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218880+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218938+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:23:08.218996+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-17T23:27:03.145796+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:53:59.838921+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:53:59.839028+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:53:59.839112+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:53:59.839171+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:53:59.839221+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.485622+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.485811+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.485939+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.486115+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.486255+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.486370+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.486548+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.486691+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.486808+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T01:54:16.552675+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T02:50:12.905835+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T02:50:12.905925+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T02:50:12.905981+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T02:50:12.906015+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T02:50:12.906059+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.181947+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182074+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182144+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182217+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182283+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182365+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182442+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182513+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:06:13.182574+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T03:37:17.423888+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.349842+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.349939+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.349998+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.350044+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.350075+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.458746+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.458835+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.458902+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.458977+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.459039+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.459109+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.459171+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.459228+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.459283+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T04:53:25.520385+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.221955+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.222125+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.222170+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.222223+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.222260+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.321581+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.321679+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.321776+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.321866+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.321940+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.322010+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.322076+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.322139+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.322218+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T07:53:50.385897+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:24:59.739193+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:24:59.739297+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:24:59.739349+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:24:59.739397+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:24:59.739446+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:16.264559+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:16.264728+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:16.264785+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:16.264827+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:16.264866+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.912609+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.912735+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.912810+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.912884+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.912952+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.913019+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.913085+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.913150+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:30.913221+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:53:32.930054+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.146236+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.146405+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.146517+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.146654+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.146766+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.146870+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.146981+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.147075+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T10:56:00.147167+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T12:22:02.429079+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:38.286303+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:38.286396+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:38.286465+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:38.286515+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:38.286564+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.697909+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698041+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698123+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698193+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698284+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698473+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698619+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698752+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:53:56.698890+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T13:54:01.554592+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.092533+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.092669+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.092732+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.092794+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.092841+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.193995+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194129+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194201+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194300+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194403+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194501+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194636+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194738+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.194846+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T16:53:46.259748+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:53:56.342459+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:53:56.342764+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:53:56.342869+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:53:56.342937+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:53:56.343026+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.890747+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.890952+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.891089+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.891205+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.891340+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.891492+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.891675+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.891817+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.891944+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T19:54:22.974766+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:53:43.370804+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:53:43.370919+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:53:43.370962+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:53:43.371024+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:53:43.371057+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.416649+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.416736+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.416813+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.416874+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.416941+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.417024+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.417087+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.417145+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.417203+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T22:54:08.474135+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:04:45.190633+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:04:45.190816+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:04:45.190890+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:04:45.190936+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:04:45.190970+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.158650+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.158758+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.158839+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.158907+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.158972+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.159057+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.159124+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.159183+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-18T23:27:42.159241+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T00:00:39.116672+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:53:51.054977+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:53:51.055094+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:53:51.055137+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:53:51.055182+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:53:51.055222+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436418+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436514+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436604+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436690+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436750+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436819+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436880+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.436943+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:17.437005+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T01:54:25.009737+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.618011+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.618128+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.618190+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.618249+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.618304+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.727690+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.727853+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.727964+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.728064+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.728161+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.728266+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.728391+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.728474+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.728551+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T04:53:40.807700+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T05:36:08.706830+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T05:36:08.707007+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T05:36:08.707087+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T05:36:08.707165+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T05:36:08.707216+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122318+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122425+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122497+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122566+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122644+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122704+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122770+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122829+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:07:09.122902+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T06:38:09.890981+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:11.933680+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:11.933794+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:11.933841+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:11.933888+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:11.933930+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.958912+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959009+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959082+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959149+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959206+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959265+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959325+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959383+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:22.959443+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T07:53:23.017527+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.698748+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.698849+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.698889+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.698920+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.698959+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794302+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794399+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794473+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794553+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794634+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794704+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794786+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794848+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.794907+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T10:53:43.864167+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:22:06.425212+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:22:06.425391+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:22:06.425541+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:22:06.425647+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:22:06.425761+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.215607+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.215724+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.215790+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.215873+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.215956+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.216022+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.216084+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.216142+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:52:34.216217+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:14.837959+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:14.838074+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:14.838125+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:14.838160+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:14.838197+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852425+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852528+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852621+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852707+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852767+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852853+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852914+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.852972+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:45.853029+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T13:54:49.919575+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T14:22:41.812872+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:16.142468+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:16.142564+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:16.142630+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:16.142673+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:16.142716+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.979380+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.981793+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.981931+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.981993+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.982053+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.982111+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.982170+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.982259+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:37.982317+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T16:53:42.506290+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:53:37.983410+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:53:37.983513+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:53:37.983559+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:53:37.983592+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:53:37.983624+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.282662+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.282761+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.282839+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.282896+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.282955+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.283026+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.283100+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.283158+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:13.283217+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T19:54:17.375806+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:54:36.153657+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:54:36.153741+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:54:36.153782+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:54:36.153824+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:54:36.153855+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256199+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256289+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256357+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256438+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256498+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256559+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256624+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256682+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.256749+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-19T22:55:06.317326+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:22:06.082784+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:22:06.082871+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:22:06.082922+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:22:06.082964+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:22:06.082998+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119398+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119502+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119576+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119641+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119702+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119765+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119850+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119907+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:52:35.119973+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:53:49.094616+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:53:49.094729+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:53:49.094770+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:53:49.094821+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:53:49.094857+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.508406+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.508523+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.508591+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.508665+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.508764+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.508900+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.509041+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.509128+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.509220+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T01:54:13.578636+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T02:23:01.278238+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:18.978285+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:18.978392+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:18.978432+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:18.978475+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:18.978506+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695443+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695545+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695620+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695684+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695768+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695831+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695896+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.695961+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.696018+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T04:53:25.755432+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.538465+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.538563+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.538605+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.538639+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.538669+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639397+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639489+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639579+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639642+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639707+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639787+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639861+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639921+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.639980+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T07:53:01.699159+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T08:16:09.731065+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T08:16:09.731150+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T08:16:09.731201+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T08:16:09.731240+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T08:16:09.731285+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.279838+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.279937+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.280023+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.280089+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.280166+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.280235+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.280294+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.280364+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T09:16:16.280422+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:22:03.383640+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:13.730487+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:13.730570+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:13.730611+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:13.730652+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:13.730683+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.541818+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.542261+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.542440+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.542580+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.542689+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.542852+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.543017+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.543263+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:26.543334+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T10:53:28.859740+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:54:31.526211+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:54:31.526334+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:54:31.526383+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:54:31.526436+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:54:31.526482+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.809900+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810010+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810080+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810172+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810246+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810308+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810368+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810428+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:12.810486+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T13:55:16.553465+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:53:46.428486+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:53:46.428568+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:53:46.428610+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:53:46.428652+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:53:46.428698+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.712468+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.712605+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.712686+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.712758+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.712829+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.712901+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.712963+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.713023+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:18.713094+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T16:54:25.810270+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T17:23:59.463230+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T17:23:59.463371+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T17:23:59.463430+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T17:23:59.463466+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T17:23:59.463498+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.270323+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.270598+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.270866+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.271016+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.271155+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.271300+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.272215+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.272435+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T18:01:04.272573+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:12.768510+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:12.768637+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:12.768699+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:12.768756+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:12.768812+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529148+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529295+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529403+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529548+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529661+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529767+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529861+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.529947+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.530033+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T19:54:25.597295+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:28.671397+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:28.671504+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:28.671554+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:28.671587+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:28.671623+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.469976+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470079+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470162+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470226+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470309+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470368+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470433+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470489+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:43.470560+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-20T22:53:46.015177+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T00:00:09.989132+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:26.584958+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:26.585109+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:26.585165+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:26.585209+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:26.585254+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.625653+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.625741+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.625826+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.625903+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.625972+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.626033+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.626100+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.626168+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.626226+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T01:53:52.702952+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:33.593252+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:33.593340+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:33.593391+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:33.593423+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:33.593452+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245423+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245534+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245603+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245658+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245728+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245794+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245853+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245910+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:54.245966+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T04:53:57.464355+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.143050+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.143155+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.143194+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.143238+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.143269+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246364+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246457+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246540+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246609+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246671+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246736+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246796+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246872+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.246928+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T07:53:07.320452+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T08:16:11.261890+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T08:16:11.262094+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T08:16:11.262148+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T08:16:11.262186+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T08:16:11.262220+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.968289+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.968441+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.968544+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.968645+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.968743+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.968859+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.968951+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.969078+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T09:16:13.969214+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:22:01.830471+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:23.373244+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:23.373407+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:23.373462+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:23.373505+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:23.373536+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301190+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301288+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301377+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301443+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301511+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301586+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301662+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301726+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.301789+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T10:53:31.369888+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:30.679328+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:30.679417+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:30.679468+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:30.679503+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:30.679541+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093248+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093339+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093412+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093483+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093545+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093602+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093676+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093730+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:53:56.093783+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T13:54:00.507825+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:29.425418+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:29.425500+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:29.425541+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:29.425587+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:29.425617+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:31.616280+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:31.616348+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:31.616388+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:31.616445+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:53:31.616490+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901130+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901227+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901301+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901366+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901428+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901493+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901554+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901610+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:05.901676+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T16:54:13.962764+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.738799+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.738888+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.738958+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.739018+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.739083+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.739168+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.739238+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.739296+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T17:24:01.739353+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T18:22:02.521567+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:03.227050+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:03.227129+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:03.227180+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:03.227213+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:03.227247+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442076+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442219+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442330+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442433+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442558+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442666+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442772+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442867+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.442972+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T19:54:31.506196+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:23.583084+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:23.583169+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:23.583210+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:23.583251+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:23.583283+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894459+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894547+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894637+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894699+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894779+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894848+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894905+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.894962+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.895018+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-21T22:53:36.961941+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:01:01.720881+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:01:01.721015+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:01:01.721067+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:01:01.721100+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:01:01.721141+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933176+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933323+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933438+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933553+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933651+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933745+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933837+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.933938+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T00:31:59.934044+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:02:59.384336+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:41.878307+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:41.878397+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:41.878441+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:41.878485+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:41.878528+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.253960+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254061+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254132+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254194+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254312+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254403+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254464+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254543+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.254610+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T01:53:58.319210+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:00.725279+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:00.725420+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:00.725471+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:00.725508+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:00.725539+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.959821+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.959930+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.960053+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.960185+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.960284+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.960386+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.960478+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.960562+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:28.960646+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T04:54:34.598428+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T06:54:19.584273+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T06:54:19.584440+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T06:54:19.584531+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T06:54:19.584630+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T06:54:19.584687+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006375+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006491+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006562+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006636+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006694+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006755+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006813+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006869+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:33:04.006934+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:13.063451+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:13.063526+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:13.063582+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:13.063624+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:13.063659+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.395784+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.395869+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.395953+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.396027+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.396089+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.396149+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.396219+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.396276+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.396332+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T07:53:30.489764+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T08:11:33.045530+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:48:54.896322+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:48:54.896410+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:48:54.896476+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:48:54.896510+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:48:54.896556+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:53:57.823028+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:53:57.823152+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:53:57.823208+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:53:57.823271+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:53:57.823328+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.720810+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.720947+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.721092+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.721199+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.721343+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.721456+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.721560+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.721663+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:13.721778+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T10:54:15.867773+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.520457+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.520636+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.520783+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.520911+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.521023+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.521126+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.521231+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.521330+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T12:22:02.521425+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:22:06.418901+00:00"
+    },
+    {
+      "trail": "mouse acted on its own brain: gnaw_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:42.883559+00:00"
+    },
+    {
+      "trail": "moth acted on its own brain: eat_edge",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:42.883646+00:00"
+    },
+    {
+      "trail": "spider acted on its own brain: wait_and_wrap",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:42.883685+00:00"
+    },
+    {
+      "trail": "cricket acted on its own brain: chirp_and_jump",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:42.883730+00:00"
+    },
+    {
+      "trail": "raccoon acted on its own brain: open_and_cache",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:42.883761+00:00"
+    },
+    {
+      "trail": "monster lab: swamp riser acted on its own brain: rise_and_wait",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.949360+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler acted on its own brain: crawl_low",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.949485+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper acted on its own brain: climb_wall",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.949559+00:00"
+    },
+    {
+      "trail": "monster lab: cyber-bio hardcore acted on its own brain: hunt_close",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.949619+00:00"
+    },
+    {
+      "trail": "monster lab: cyber tiny dancer acted on its own brain: dance_then_strike",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.949684+00:00"
+    },
+    {
+      "trail": "monster lab: swamp boss acted on its own brain: rule_swamp",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.949772+00:00"
+    },
+    {
+      "trail": "monster lab: house crawler boss acted on its own brain: own_house",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.949889+00:00"
+    },
+    {
+      "trail": "monster lab: wall creeper boss acted on its own brain: own_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.950003+00:00"
+    },
+    {
+      "trail": "monster lab: slip-patch fused boss acted on its own brain: pull_from_walls",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:53:57.950102+00:00"
+    },
+    {
+      "trail": "the nurse watched the whole house and found nothing broken",
+      "sense": "smell",
+      "strength": 1.0,
+      "barked_across_private_line": true,
+      "at": "2026-11-22T13:54:02.328262+00:00"
     }
   ],
   "archive": [
@@ -2721,7 +8706,7 @@
   ],
   "private_line": {
     "weight": 1.0,
-    "uses": 223
+    "uses": 1078
   },
   "expanded": [
     {
