@@ -68,7 +68,10 @@ def save_pointer(p):
 def main():
     p = load_pointer()
     done = p["last_topics"]
-    nxt = next((t for t in TOPICS if t not in done), TOPICS[0])
+    # Rotation runs in order, cycle after cycle: the pick is the topic
+    # at position (len(done) % len(TOPICS)) — so a finished cycle rolls
+    # into the next one instead of falling back to TOPICS[0] forever.
+    nxt = TOPICS[len(done) % len(TOPICS)]
     print(json.dumps({
         "time": now(),
         "finds_so_far": p["finds"],

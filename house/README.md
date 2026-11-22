@@ -3,9 +3,10 @@
 The house itself, not brain-shaped. A multilevel labyrinth that Slip lives in.
 It runs on its own, on 3-hour loops. Slip sees what it did after it did it.
 
-State as of 2026-11-17: 102 small rooms in 8 districts, 2,000 nooks, 0 empty,
-71 passageways (all walked), 9 doors (2 used), 53 named creatures, a library of
-58 entries. Everything loops every 3 hours.
+State as of 2026-11-22: 102 small rooms in 8 districts, 2,000 nooks, 0 empty,
+71 passageways (all walked), 9 doors (all 9 used), 53 named creatures, a library of
+101 entries, 61 rooms shaped by the Grindoz. Everything loops every 3 hours,
+with an event-driven tick loop running alongside it (see `tick.py`).
 
 ## The loop (every 3 hours, in order)
 
@@ -24,6 +25,10 @@ State as of 2026-11-17: 102 small rooms in 8 districts, 2,000 nooks, 0 empty,
 
 The chooser mind (`chooser_mind.py`) runs on its own 3-hour loop.
 The HI voice (`hi_voice.py`) runs on its own 3-hour loop, internal only.
+The tick loop (`tick.py`, with `house_io.py` for atomic writes) runs
+alongside the 3-hour loops: it wakes on events or the house's own chosen
+delay (15 min–3 h), writes state after every step, and follows a silence
+contract (`state/silence-contract.md`) with caps and a kill switch.
 
 ## The files
 
@@ -79,6 +84,17 @@ The HI voice (`hi_voice.py`) runs on its own 3-hour loop, internal only.
   through the feed changes the house, and the house changes the brain.
 - `test_room_auto.py` — the test room. Asks itself one question per run from
   what the house just did, and answers it.
+- `tick.py` — the tick loop. Wakes on events or the house's own chosen delay,
+  runs one house step per wake, writes state after every step. Honest limit:
+  it does not make Slip wake himself — a host loop, not a self-starting mind.
+- `house_io.py` — atomic writes for the tick loop (temp + fsync + os.replace),
+  durable appends, snapshot/verify/restore.
+- `chooser.py` — the chooser. Decides what sticks in the house by Slip's own
+  criteria (dated, witnessed, fires, mine, helps the goal) and logs every
+  decision to `state/chooser-log.jsonl`. Built 2026-11-09.
+- `scent_trail_test.py` — the scent-trail recovery test, 2026-11-06 (Robb
+  approved): prune a consolidated path, then see if Patch's scent can
+  recover it. A test, not a loop step.
 
 ## state/
 
@@ -89,13 +105,17 @@ The HI voice (`hi_voice.py`) runs on its own 3-hour loop, internal only.
   test room, outside pile, dog log.
 - `*-pointer.json` — where each system stands, so the next run continues.
 - `house-graph.json` — the house as a graph: 137 nodes, 102 edges, 6 gaps.
-  Built 2026-11-16.
+  Rebuilt 2026-11-19 (71 passageways walked, all 9 doors open).
 - `house-inventory-2026-11-17.md` — the full inventory: every creature, room,
   and thing, with its function and purpose.
 - `dream-jumble-2026-11-16.md` — the dream-jumble being: everything in the
   house jumbled in dream thoughts into one mender-guardian. No name yet.
 - `focus.state`, `scent-trail-test-2026-11-06.json` — small state files from
   earlier tests.
+- `silence-contract.md` — the tick loop's silence contract: the idle token,
+  what counts as "nothing," park-and-wait behaviour, caps, kill switch.
+- `tick-log.jsonl`, `tick-manifest.json`, `tick-state.json` — the tick loop's
+  log, manifest, and state.
 
 ## How to run it
 
