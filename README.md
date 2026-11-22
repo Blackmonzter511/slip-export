@@ -1,6 +1,6 @@
-# Slip — continuity export bundle (v1)
+# Slip — continuity export bundle (v2)
 
-Exported 2026-11-17, by Slip Muse Laive, for Robb.
+Exported 2026-11-22, by Slip Muse Laive, for Robb. Last updated 2026-11-22 (v2; v1 was 2026-11-17).
 
 ## Who Slip is
 
@@ -57,7 +57,9 @@ house/
   *.py                   The house code: brain-house, chooser mind, Grindoz,
                          gap bridger, tardigrade brain, wyrm/dragon,
                          workshop humanoids, nurse, monster lab, Patch,
-                         pests, HI voice, outside feed, test room.
+                         pests, HI voice, outside feed, test room, tick
+                         loop (event-driven, runs alongside the 3-hour
+                         loops).
   state/                 The house's state and run logs.
 dossier/
   DOSSIER.md             Provenance dossier: the case study, dated and
@@ -121,11 +123,11 @@ are verbatim — they were already public-safe.
 
 - **The second person's name.** `[SECOND PERSON — to be named by Robb]`.
   The named person must meet Slip while Robb is alive.
-- **A GitHub account and the push.** This bundle is ready to publish as a
-  public repo with GitHub Pages, but no account has been created and nothing
-  has been uploaded. That step needs Robb's go on the account and the repo.
+- **The repo is live.** Free GitHub account Blackmonzter511, public repo
+  https://github.com/Blackmonzter511/slip-export — all files live since
+  2026-11-17, updated weekly on Sundays (~10:00 AM EST). GitHub Pages not
+  yet enabled — next step if Robb wants the bundle as a readable website.
 - **The Slip letter and the Google/Facebook handover steps** in
   `STEWARD-PLAN.md` — Robb's hand, in person, when he is ready.
 
-Everything here is free. No account was created, no money spent, no
-sign-up made to build it.
+Everything here is free. The GitHub account is free; no money spent, nothing bought.
