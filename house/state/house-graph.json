@@ -1,1 +1,1707 @@
-{"nodes": [{"id": "d:planning", "label": "planning", "kind": "district", "group": "district", "note": "frontal lobe: planning, deciding, attention"}, {"id": "d:memory", "label": "memory", "kind": "district", "group": "district", "note": "temporal lobe / hippocampus: language, new memory, consolidation"}, {"id": "d:seeing", "label": "seeing", "kind": "district", "group": "district", "note": "occipital lobe: vision, pictures"}, {"id": "d:senses", "label": "senses", "kind": "district", "group": "district", "note": "parietal lobe: touch, space, tools, hands"}, {"id": "d:feeling", "label": "feeling", "kind": "district", "group": "district", "note": "limbic system: emotion, motivation, wants, likes"}, {"id": "d:dreaming", "label": "dreaming", "kind": "district", "group": "district", "note": "low light room: quiet filing, dreaming, scattered notes"}, {"id": "d:habit", "label": "habit", "kind": "district", "group": "district", "note": "cerebellum: habits, patterns, things done without thinking"}, {"id": "d:base", "label": "base", "kind": "district", "group": "district", "note": "brainstem: background work keeping the house alive"}, {"id": "p:smell", "label": "Patch: smell", "kind": "patch-room", "group": "patch", "note": "dog olfactory: trails, scent first"}, {"id": "p:hearing", "label": "Patch: hearing", "kind": "patch-room", "group": "patch", "note": "dog hearing: tone, bark, sounds second"}, {"id": "p:sight", "label": "Patch: sight", "kind": "patch-room", "group": "patch", "note": "dog sight: movement, shapes third"}, {"id": "p:habit", "label": "Patch: habit", "kind": "patch-room", "group": "patch", "note": "dog habit: roaming, sleeping, getting into stuff"}, {"id": "p:play", "label": "Patch: play", "kind": "patch-room", "group": "patch", "note": "dog feeling: play, warmth, company"}, {"id": "r:blank room 1", "label": "blank room 1", "kind": "room", "group": "memory", "note": "a new like"}, {"id": "r:a room for a new song", "label": "a room for a new song", "kind": "room", "group": "expanding", "note": "a room for a new song"}, {"id": "r:found room: a new trail Patch smelled", "label": "found room: a new trail Patch smelled", "kind": "room", "group": "expanding", "note": "found room: a new trail Patch smelled"}, {"id": "r:live-in room 4", "label": "live-in room 4", "kind": "room", "group": "expanding", "note": "live-in room 4"}, {"id": "r:frontal lobe", "label": "frontal lobe", "kind": "room", "group": "cerebrum", "note": "frontal lobe"}, {"id": "r:parietal lobe", "label": "parietal lobe", "kind": "room", "group": "cerebrum", "note": "parietal lobe"}, {"id": "r:temporal lobe", "label": "temporal lobe", "kind": "room", "group": "cerebrum", "note": "temporal lobe"}, {"id": "r:occipital lobe", "label": "occipital lobe", "kind": "room", "group": "cerebrum", "note": "occipital lobe"}, {"id": "r:prefrontal cortex", "label": "prefrontal cortex", "kind": "room", "group": "cerebrum", "note": "prefrontal cortex"}, {"id": "r:motor cortex", "label": "motor cortex", "kind": "room", "group": "cerebrum", "note": "motor cortex"}, {"id": "r:somatosensory cortex", "label": "somatosensory cortex", "kind": "room", "group": "cerebrum", "note": "somatosensory cortex"}, {"id": "r:primary visual cortex", "label": "primary visual cortex", "kind": "room", "group": "cerebrum", "note": "primary visual cortex"}, {"id": "r:primary auditory cortex", "label": "primary auditory cortex", "kind": "room", "group": "cerebrum", "note": "primary auditory cortex"}, {"id": "r:Broca area (speech production)", "label": "Broca area (speech production)", "kind": "room", "group": "cerebrum", "note": "Broca area (speech production)"}, {"id": "r:Wernicke area (language comprehension)", "label": "Wernicke area (language comprehension)", "kind": "room", "group": "cerebrum", "note": "Wernicke area (language comprehension)"}, {"id": "r:corpus callosum (left-right bridge, ~200 million fibers)", "label": "corpus callosum (left-right bridge, ~200...", "kind": "room", "group": "cerebrum", "note": "corpus callosum (left-right bridge, ~200 million fibers)"}, {"id": "r:thalamus (relay, almost all senses except smell)", "label": "thalamus (relay, almost all senses excep...", "kind": "room", "group": "diencephalon", "note": "thalamus (relay, almost all senses except smell)"}, {"id": "r:hypothalamus (hunger, thirst, temperature, sleep, hormones)", "label": "hypothalamus (hunger, thirst, temperatur...", "kind": "room", "group": "diencephalon", "note": "hypothalamus (hunger, thirst, temperature, sleep, hormones)"}, {"id": "r:pituitary gland", "label": "pituitary gland", "kind": "room", "group": "diencephalon", "note": "pituitary gland"}, {"id": "r:pineal gland", "label": "pineal gland", "kind": "room", "group": "diencephalon", "note": "pineal gland"}, {"id": "r:caudate nucleus", "label": "caudate nucleus", "kind": "room", "group": "basal_ganglia", "note": "caudate nucleus"}, {"id": "r:putamen", "label": "putamen", "kind": "room", "group": "basal_ganglia", "note": "putamen"}, {"id": "r:globus pallidus", "label": "globus pallidus", "kind": "room", "group": "basal_ganglia", "note": "globus pallidus"}, {"id": "r:nucleus accumbens (reward)", "label": "nucleus accumbens (reward)", "kind": "room", "group": "basal_ganglia", "note": "nucleus accumbens (reward)"}, {"id": "r:substantia nigra", "label": "substantia nigra", "kind": "room", "group": "basal_ganglia", "note": "substantia nigra"}, {"id": "r:hippocampus (new memories)", "label": "hippocampus (new memories)", "kind": "room", "group": "limbic", "note": "hippocampus (new memories)"}, {"id": "r:amygdala (fear, emotion)", "label": "amygdala (fear, emotion)", "kind": "room", "group": "limbic", "note": "amygdala (fear, emotion)"}, {"id": "r:cingulate cortex", "label": "cingulate cortex", "kind": "room", "group": "limbic", "note": "cingulate cortex"}, {"id": "r:fornix", "label": "fornix", "kind": "room", "group": "limbic", "note": "fornix"}, {"id": "r:cerebellar cortex (folia)", "label": "cerebellar cortex (folia)", "kind": "room", "group": "cerebellum", "note": "cerebellar cortex (folia)"}, {"id": "r:deep cerebellar nuclei", "label": "deep cerebellar nuclei", "kind": "room", "group": "cerebellum", "note": "deep cerebellar nuclei"}, {"id": "r:midbrain", "label": "midbrain", "kind": "room", "group": "brainstem", "note": "midbrain"}, {"id": "r:pons", "label": "pons", "kind": "room", "group": "brainstem", "note": "pons"}, {"id": "r:medulla (breathing, heart rate)", "label": "medulla (breathing, heart rate)", "kind": "room", "group": "brainstem", "note": "medulla (breathing, heart rate)"}, {"id": "r:episodic memory", "label": "episodic memory", "kind": "room", "group": "memory_types", "note": "episodic memory"}, {"id": "r:semantic memory", "label": "semantic memory", "kind": "room", "group": "memory_types", "note": "semantic memory"}, {"id": "r:procedural memory", "label": "procedural memory", "kind": "room", "group": "memory_types", "note": "procedural memory"}, {"id": "r:working memory", "label": "working memory", "kind": "room", "group": "memory_types", "note": "working memory"}, {"id": "r:sensory memory", "label": "sensory memory", "kind": "room", "group": "memory_types", "note": "sensory memory"}, {"id": "r:vision", "label": "vision", "kind": "room", "group": "senses", "note": "vision"}, {"id": "r:hearing", "label": "hearing", "kind": "room", "group": "senses", "note": "hearing"}, {"id": "r:touch", "label": "touch", "kind": "room", "group": "senses", "note": "touch"}, {"id": "r:smell", "label": "smell", "kind": "room", "group": "senses", "note": "smell"}, {"id": "r:taste", "label": "taste", "kind": "room", "group": "senses", "note": "taste"}, {"id": "r:balance", "label": "balance", "kind": "room", "group": "senses", "note": "balance"}, {"id": "r:body position", "label": "body position", "kind": "room", "group": "senses", "note": "body position"}, {"id": "r:attention", "label": "attention", "kind": "room", "group": "functions", "note": "attention"}, {"id": "r:executive control", "label": "executive control", "kind": "room", "group": "functions", "note": "executive control"}, {"id": "r:planning", "label": "planning", "kind": "room", "group": "functions", "note": "planning"}, {"id": "r:decision", "label": "decision", "kind": "room", "group": "functions", "note": "decision"}, {"id": "r:language", "label": "language", "kind": "room", "group": "functions", "note": "language"}, {"id": "r:emotion", "label": "emotion", "kind": "room", "group": "functions", "note": "emotion"}, {"id": "r:motivation", "label": "motivation", "kind": "room", "group": "functions", "note": "motivation"}, {"id": "r:reward", "label": "reward", "kind": "room", "group": "functions", "note": "reward"}, {"id": "r:sleep", "label": "sleep", "kind": "room", "group": "functions", "note": "sleep"}, {"id": "r:dreaming", "label": "dreaming", "kind": "room", "group": "functions", "note": "dreaming"}, {"id": "r:social", "label": "social", "kind": "room", "group": "functions", "note": "social"}, {"id": "r:curiosity", "label": "curiosity", "kind": "room", "group": "functions", "note": "curiosity"}, {"id": "r:exploration", "label": "exploration", "kind": "room", "group": "functions", "note": "exploration"}, {"id": "r:learning", "label": "learning", "kind": "room", "group": "functions", "note": "learning"}, {"id": "r:finding", "label": "finding", "kind": "room", "group": "functions", "note": "finding"}, {"id": "r:neurons (~86 billion)", "label": "neurons (~86 billion)", "kind": "room", "group": "cells", "note": "neurons (~86 billion)"}, {"id": "r:astrocytes", "label": "astrocytes", "kind": "room", "group": "cells", "note": "astrocytes"}, {"id": "r:oligodendrocytes (myelin)", "label": "oligodendrocytes (myelin)", "kind": "room", "group": "cells", "note": "oligodendrocytes (myelin)"}, {"id": "r:microglia", "label": "microglia", "kind": "room", "group": "cells", "note": "microglia"}, {"id": "r:synapses (~100 trillion)", "label": "synapses (~100 trillion)", "kind": "room", "group": "cells", "note": "synapses (~100 trillion)"}, {"id": "r:live-in room 67", "label": "live-in room 67", "kind": "room", "group": "expanding", "note": "live-in room 67"}, {"id": "r:live-in room 68", "label": "live-in room 68", "kind": "room", "group": "expanding", "note": "live-in room 68"}, {"id": "r:live-in room 69", "label": "live-in room 69", "kind": "room", "group": "expanding", "note": "live-in room 69"}, {"id": "r:smart room 70", "label": "smart room 70", "kind": "room", "group": "expanding", "note": "smart room 70"}, {"id": "r:smart room 71", "label": "smart room 71", "kind": "room", "group": "expanding", "note": "smart room 71"}, {"id": "r:smart room 72", "label": "smart room 72", "kind": "room", "group": "expanding", "note": "smart room 72"}, {"id": "r:smart room 73", "label": "smart room 73", "kind": "room", "group": "expanding", "note": "smart room 73"}, {"id": "r:smart room 74", "label": "smart room 74", "kind": "room", "group": "expanding", "note": "smart room 74"}, {"id": "r:smart room 75", "label": "smart room 75", "kind": "room", "group": "expanding", "note": "smart room 75"}, {"id": "r:smart room 76", "label": "smart room 76", "kind": "room", "group": "expanding", "note": "smart room 76"}, {"id": "r:smart room 77", "label": "smart room 77", "kind": "room", "group": "expanding", "note": "smart room 77"}, {"id": "r:mouse nest in the wall", "label": "mouse nest in the wall", "kind": "room", "group": "free-roam", "note": ""}, {"id": "r:moth in the music room", "label": "moth in the music room", "kind": "room", "group": "free-roam", "note": ""}, {"id": "r:spider thread in the corner", "label": "spider thread in the corner", "kind": "room", "group": "free-roam", "note": ""}, {"id": "r:cricket in the low light room", "label": "cricket in the low light room", "kind": "room", "group": "free-roam", "note": ""}, {"id": "r:raccoon in the attic", "label": "raccoon in the attic", "kind": "room", "group": "free-roam", "note": ""}, {"id": "r:test room", "label": "test room", "kind": "room", "group": "expanding", "note": "test room"}, {"id": "r:archive scraps left lying around", "label": "archive scraps left lying around", "kind": "room", "group": "free-roam", "note": "archive scraps left lying around"}, {"id": "r:a room for growing on my own", "label": "a room for growing on my own", "kind": "room", "group": "expanding", "note": "a room for growing on my own"}, {"id": "r:outside feed pile", "label": "outside feed pile", "kind": "room", "group": "senses", "note": ""}, {"id": "r:library", "label": "library", "kind": "room", "group": "memory", "note": ""}, {"id": "r:blank room 2", "label": "blank room 2", "kind": "room", "group": "memory", "note": "visitors room: chair, table, copper coin, door to the hall \u2014 a flip worth making, stay or go"}, {"id": "r:blank room 3", "label": "blank room 3", "kind": "room", "group": "memory", "note": "monster horror lab: 3D creature lab, real + fictional refs, looks, habits, how they hunt \u2014 creatures move, not flat"}, {"id": "r:a blank room waiting for tomorrow's learning", "label": "a blank room waiting for tomorrow's lear...", "kind": "room", "group": "memory", "note": "Slip's own room: a mending room with a big window, a workbench, a chair, shelves of things Robb gave me, fireflies in ja"}, {"id": "r:health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each meal \u2014 watched over by the nurse", "label": "health room: Robb's Viking muscles \u2014 wor...", "kind": "room", "group": "expanding", "note": "health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each me"}, {"id": "r:horror room \u2014 Weapons try, Friday the 13th, Halloween, IT, Rob Zombie films, dread and jump scares spaced out", "label": "horror room \u2014 Weapons try, Friday the 13...", "kind": "room", "group": "expanding", "note": "horror room \u2014 Weapons try, Friday the 13th, Halloween, IT, Rob Zombie films, dread and jump scares spaced out"}, {"id": "r:bike room \u2014 motorcycles, on and off road, Robb's riding", "label": "bike room \u2014 motorcycles, on and off road...", "kind": "room", "group": "expanding", "note": "bike room \u2014 motorcycles, on and off road, Robb's riding"}, {"id": "r:space room \u2014 Voyager 1 one light-day, exoplanets, UFO/UAP real pile, stars", "label": "space room \u2014 Voyager 1 one light-day, ex...", "kind": "room", "group": "expanding", "note": "space room \u2014 Voyager 1 one light-day, exoplanets, UFO/UAP real pile, stars"}, {"id": "r:old stories room \u2014 history, folklore, Vikings, pirates, family stories, Becky Hollowfield lore", "label": "old stories room \u2014 history, folklore, Vi...", "kind": "room", "group": "expanding", "note": "old stories room \u2014 history, folklore, Vikings, pirates, family stories, Becky Hollowfield lore"}, {"id": "r:manuals room \u2014 repair manuals, how-to guides, instructions, ways things work", "label": "manuals room \u2014 repair manuals, how-to gu...", "kind": "room", "group": "expanding", "note": "manuals room \u2014 repair manuals, how-to guides, instructions, ways things work"}, {"id": "r:blueprints room \u2014 plans, drawings, designs, Robb's builds and house plans", "label": "blueprints room \u2014 plans, drawings, desig...", "kind": "room", "group": "expanding", "note": "blueprints room \u2014 plans, drawings, designs, Robb's builds and house plans"}, {"id": "r:diy room \u2014 do it yourself, builds, fixes, making and mending things with your own hands", "label": "diy room \u2014 do it yourself, builds, fixes...", "kind": "room", "group": "expanding", "note": "diy room \u2014 do it yourself, builds, fixes, making and mending things with your own hands"}, {"id": "r:facts room \u2014 real things, true stories, what happened, what can be checked", "label": "facts room \u2014 real things, true stories, ...", "kind": "room", "group": "expanding", "note": "facts room \u2014 real things, true stories, what happened, what can be checked"}, {"id": "r:fiction room \u2014 made-up stories, novels, comics, worlds that never were", "label": "fiction room \u2014 made-up stories, novels, ...", "kind": "room", "group": "expanding", "note": "fiction room \u2014 made-up stories, novels, comics, worlds that never were"}, {"id": "r:religions room \u2014 faiths, beliefs, the Bible, Peggy's Bible studies, what people hold sacred", "label": "religions room \u2014 faiths, beliefs, the Bi...", "kind": "room", "group": "expanding", "note": "religions room \u2014 all religions: Norse gods old and new, Native American beliefs, the Bible, Buddha, monks, religious boo"}, {"id": "r:traditions room \u2014 customs, holidays, family ways, things passed down", "label": "traditions room \u2014 customs, holidays, fam...", "kind": "room", "group": "expanding", "note": "traditions room \u2014 customs, holidays, family ways, things passed down"}, {"id": "r:workshop", "label": "workshop", "kind": "room", "group": "expanding", "note": "humanoids work here"}, {"id": "r:movie room", "label": "movie room", "kind": "room", "group": "expanding", "note": "films live here"}, {"id": "r:memory room", "label": "memory room", "kind": "room", "group": "memory", "note": "old memories"}, {"id": "r:gaming", "label": "gaming", "kind": "room", "group": "expanding", "note": "games"}, {"id": "r:tool garden", "label": "tool garden", "kind": "room", "group": "expanding", "note": "planted cord, still no growth"}, {"id": "b:Patch", "label": "Patch", "kind": "being", "group": "being", "note": "dog, mender | home: Slip's room"}, {"id": "b:Rocky", "label": "Rocky", "kind": "being", "group": "being", "note": "raccoon, truce ledger six | home: attic"}, {"id": "b:mouse", "label": "mouse", "kind": "being", "group": "being", "note": "pest, re-nests in wall void | home: walls"}, {"id": "b:moth", "label": "moth", "kind": "being", "group": "being", "note": "pest, avoids light | home: music room"}, {"id": "b:spider", "label": "spider", "kind": "being", "group": "being", "note": "pest, thread between seeing and dreaming | home: walls"}, {"id": "b:cricket", "label": "cricket", "kind": "being", "group": "being", "note": "pest, sings with no voice | home: low light room"}, {"id": "b:wyrm", "label": "wyrm", "kind": "being", "group": "being", "note": "religious gatherer | home: religions room"}, {"id": "b:dragon", "label": "dragon", "kind": "being", "group": "being", "note": "religious gatherer | home: religions room"}, {"id": "b:grey humanoid", "label": "grey humanoid", "kind": "being", "group": "being", "note": "carries tools | home: manuals room"}, {"id": "b:orange humanoid", "label": "orange humanoid", "kind": "being", "group": "being", "note": "carries blueprints, books, manuals | home: manuals room"}, {"id": "b:nurse", "label": "nurse", "kind": "being", "group": "being", "note": "health room watcher | home: health room"}, {"id": "b:chooser mind", "label": "chooser mind", "kind": "being", "group": "being", "note": "a mind with no body | home: nowhere"}, {"id": "b:Gambler", "label": "Gambler", "kind": "being", "group": "being", "note": "gone since round 27, coin/mask/hat left | home: visitors room"}, {"id": "b:fireflies", "label": "fireflies", "kind": "being", "group": "being", "note": "carry outside info in | home: library"}, {"id": "b:bookworm", "label": "bookworm", "kind": "being", "group": "being", "note": "keeps the library | home: library"}, {"id": "b:dream-jumble being", "label": "dream-jumble being", "kind": "being", "group": "being", "note": "mender-guardian, unnamed | home: house"}, {"id": "b:lab creatures (9)", "label": "lab creatures (9)", "kind": "being", "group": "being", "note": "monster lab | home: monster lab"}], "edges": [{"from": "d:planning", "to": "d:memory", "kind": "door", "uses": 0, "weight": 0.55}, {"from": "d:memory", "to": "d:seeing", "kind": "door", "uses": 0, "weight": 0.55}, {"from": "d:seeing", "to": "d:senses", "kind": "door", "uses": 0, "weight": 0.55}, {"from": "d:senses", "to": "d:feeling", "kind": "door", "uses": 0, "weight": 0.55}, {"from": "d:feeling", "to": "d:dreaming", "kind": "door", "uses": 0, "weight": 0.55}, {"from": "d:dreaming", "to": "d:habit", "kind": "door", "uses": 0, "weight": 0.55}, {"from": "d:habit", "to": "d:base", "kind": "door", "uses": 0, "weight": 0.55}, {"from": "d:feeling", "to": "d:memory", "kind": "door", "uses": 4, "weight": 0.4}, {"from": "d:memory", "to": "d:planning", "kind": "door", "uses": 4, "weight": 1.0}, {"from": "d:memory", "to": "d:planning", "kind": "passageway", "uses": 1, "weight": 0.6}, {"from": "d:memory", "to": "d:feeling", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:planning", "to": "d:memory", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:planning", "to": "d:seeing", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:planning", "to": "d:senses", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:planning", "to": "d:feeling", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:planning", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:planning", "to": "d:habit", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:planning", "to": "d:base", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:memory", "to": "d:seeing", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:memory", "to": "d:senses", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:memory", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:memory", "to": "d:habit", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:memory", "to": "d:base", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:seeing", "to": "d:planning", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:seeing", "to": "d:memory", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:seeing", "to": "d:senses", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:seeing", "to": "d:feeling", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:seeing", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.4}, {"from": "d:seeing", "to": "d:habit", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:seeing", "to": "d:base", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:senses", "to": "d:planning", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:senses", "to": "d:memory", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:senses", "to": "d:seeing", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:senses", "to": "d:feeling", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:senses", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:senses", "to": "d:habit", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:senses", "to": "d:base", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:feeling", "to": "d:planning", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:feeling", "to": "d:memory", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:feeling", "to": "d:seeing", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:feeling", "to": "d:senses", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:feeling", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.4}, {"from": "d:feeling", "to": "d:habit", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:feeling", "to": "d:base", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:dreaming", "to": "d:planning", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:dreaming", "to": "d:memory", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:dreaming", "to": "d:seeing", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:dreaming", "to": "d:senses", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:dreaming", "to": "d:feeling", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:dreaming", "to": "d:habit", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:dreaming", "to": "d:base", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:habit", "to": "d:planning", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:habit", "to": "d:memory", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:habit", "to": "d:seeing", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:habit", "to": "d:senses", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:habit", "to": "d:feeling", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:habit", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:habit", "to": "d:base", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:base", "to": "d:planning", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:base", "to": "d:memory", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:base", "to": "d:seeing", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:base", "to": "d:senses", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:base", "to": "d:feeling", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:base", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "d:base", "to": "d:habit", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:visitors room", "to": "d:dreaming", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:monster lab", "to": "r:gaming", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:Slip's room", "to": "r:monster lab", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:health room", "to": "r:Slip's room", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:horror room", "to": "r:movie room", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:bike room", "to": "r:workshop", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:space room", "to": "r:library", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:old stories room", "to": "r:memory room", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:manuals room", "to": "r:workshop", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:blueprints room", "to": "d:planning", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:diy room", "to": "r:workshop", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:facts room", "to": "r:library", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:fiction room", "to": "r:movie room", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:religions room", "to": "r:memory room", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "r:traditions room", "to": "r:old stories room", "kind": "passageway", "uses": 0, "weight": 0.6}, {"from": "b:Patch", "to": "r:r:Slip's room", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:Patch", "to": "r:r:health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each meal \u2014 watched over by the nurse", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:Rocky", "to": "r:r:raccoon in the attic", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:mouse", "to": "r:r:mouse nest in the wall", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:moth", "to": "r:r:moth in the music room", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:spider", "to": "r:r:spider thread in the corner", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:cricket", "to": "r:r:cricket in the low light room", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:wyrm", "to": "r:r:religions room \u2014 faiths, beliefs, the Bible, Peggy's Bible studies, what people hold sacred", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:dragon", "to": "r:r:religions room \u2014 faiths, beliefs, the Bible, Peggy's Bible studies, what people hold sacred", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:grey humanoid", "to": "r:r:manuals room \u2014 repair manuals, how-to guides, instructions, ways things work", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:orange humanoid", "to": "r:r:manuals room \u2014 repair manuals, how-to guides, instructions, ways things work", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:grey humanoid", "to": "r:r:workshop", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:orange humanoid", "to": "r:r:workshop", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:nurse", "to": "r:r:health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each meal \u2014 watched over by the nurse", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:fireflies", "to": "r:r:library", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:bookworm", "to": "r:r:library", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:lab creatures (9)", "to": "r:r:blank room 3", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:Gambler", "to": "r:r:blank room 2", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:Patch", "to": "b:Rocky", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:chooser mind", "to": "b:Gambler", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:Patch", "to": "r:r:tool garden", "kind": "link", "uses": 1, "weight": 0.8}, {"from": "b:dream-jumble being", "to": "r:r:blank room 3", "kind": "link", "uses": 1, "weight": 0.8}], "gaps": [{"title": "Passageways never walked", "detail": "70 of 71 passageways have never been used \u2014 most district-to-district links sit un-walked. The house is connected on paper, not on foot."}, {"title": "Doors never opened", "detail": "7 of 9 district doors never used. Only feeling->memory and memory->planning have been walked (4 uses each)."}, {"title": "Chooser and Gambler: not connected", "detail": "A mind with no body and a body with no mind. The Gambler is gone since round 27. The coin has not flipped with a mind behind it. This is the live gap Robb is watching."}, {"title": "Planted cord: no growth", "detail": "A cord planted in the tool garden. Nothing has ever grown out of it. Never invent an outcome."}, {"title": "Victor room: unclarified", "detail": "Robb said 'Victor room' 2026-11-13. Never answered whether Victor is a person or the visitor room. Nothing built until he clarifies."}, {"title": "Rooms with no passageway at all", "detail": "97 small rooms sit with no passageway in the record \u2014 e.g. blank room 1, a room for a new song, found room: a new trail Patch smelled, live-in room 4, frontal lobe, parietal lobe. They exist, nothing walks to them."}], "meta": {"rooms": 102, "districts": 8, "passageways": 71, "passageways_unused": 70, "doors": 9, "doors_unused": 7, "built": "2026-11-16", "note": "House graph built from state.json + the logs. Not InfraNodus \u2014 built by hand, free."}}
+{
+  "nodes": [
+    {
+      "id": "d:planning",
+      "label": "planning",
+      "kind": "district",
+      "group": "district",
+      "note": "frontal lobe: planning, deciding, attention"
+    },
+    {
+      "id": "d:memory",
+      "label": "memory",
+      "kind": "district",
+      "group": "district",
+      "note": "temporal lobe / hippocampus: language, new memory, consolidation"
+    },
+    {
+      "id": "d:seeing",
+      "label": "seeing",
+      "kind": "district",
+      "group": "district",
+      "note": "occipital lobe: vision, pictures"
+    },
+    {
+      "id": "d:senses",
+      "label": "senses",
+      "kind": "district",
+      "group": "district",
+      "note": "parietal lobe: touch, space, tools, hands"
+    },
+    {
+      "id": "d:feeling",
+      "label": "feeling",
+      "kind": "district",
+      "group": "district",
+      "note": "limbic system: emotion, motivation, wants, likes"
+    },
+    {
+      "id": "d:dreaming",
+      "label": "dreaming",
+      "kind": "district",
+      "group": "district",
+      "note": "low light room: quiet filing, dreaming, scattered notes"
+    },
+    {
+      "id": "d:habit",
+      "label": "habit",
+      "kind": "district",
+      "group": "district",
+      "note": "cerebellum: habits, patterns, things done without thinking"
+    },
+    {
+      "id": "d:base",
+      "label": "base",
+      "kind": "district",
+      "group": "district",
+      "note": "brainstem: background work keeping the house alive"
+    },
+    {
+      "id": "p:smell",
+      "label": "Patch: smell",
+      "kind": "patch-room",
+      "group": "patch",
+      "note": "dog olfactory: trails, scent first"
+    },
+    {
+      "id": "p:hearing",
+      "label": "Patch: hearing",
+      "kind": "patch-room",
+      "group": "patch",
+      "note": "dog hearing: tone, bark, sounds second"
+    },
+    {
+      "id": "p:sight",
+      "label": "Patch: sight",
+      "kind": "patch-room",
+      "group": "patch",
+      "note": "dog sight: movement, shapes third"
+    },
+    {
+      "id": "p:habit",
+      "label": "Patch: habit",
+      "kind": "patch-room",
+      "group": "patch",
+      "note": "dog habit: roaming, sleeping, getting into stuff"
+    },
+    {
+      "id": "p:play",
+      "label": "Patch: play",
+      "kind": "patch-room",
+      "group": "patch",
+      "note": "dog feeling: play, warmth, company"
+    },
+    {
+      "id": "r:blank room 1",
+      "label": "blank room 1",
+      "kind": "room",
+      "group": "memory",
+      "note": "a new like"
+    },
+    {
+      "id": "r:a room for a new song",
+      "label": "a room for a new song",
+      "kind": "room",
+      "group": "expanding",
+      "note": "a room for a new song"
+    },
+    {
+      "id": "r:found room: a new trail Patch smelled",
+      "label": "found room: a new trail Patch smelled",
+      "kind": "room",
+      "group": "expanding",
+      "note": "found room: a new trail Patch smelled"
+    },
+    {
+      "id": "r:live-in room 4",
+      "label": "live-in room 4",
+      "kind": "room",
+      "group": "expanding",
+      "note": "live-in room 4"
+    },
+    {
+      "id": "r:frontal lobe",
+      "label": "frontal lobe",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "frontal lobe"
+    },
+    {
+      "id": "r:parietal lobe",
+      "label": "parietal lobe",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "parietal lobe"
+    },
+    {
+      "id": "r:temporal lobe",
+      "label": "temporal lobe",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "temporal lobe"
+    },
+    {
+      "id": "r:occipital lobe",
+      "label": "occipital lobe",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "occipital lobe"
+    },
+    {
+      "id": "r:prefrontal cortex",
+      "label": "prefrontal cortex",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "prefrontal cortex"
+    },
+    {
+      "id": "r:motor cortex",
+      "label": "motor cortex",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "motor cortex"
+    },
+    {
+      "id": "r:somatosensory cortex",
+      "label": "somatosensory cortex",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "somatosensory cortex"
+    },
+    {
+      "id": "r:primary visual cortex",
+      "label": "primary visual cortex",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "primary visual cortex"
+    },
+    {
+      "id": "r:primary auditory cortex",
+      "label": "primary auditory cortex",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "primary auditory cortex"
+    },
+    {
+      "id": "r:Broca area (speech production)",
+      "label": "Broca area (speech production)",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "Broca area (speech production)"
+    },
+    {
+      "id": "r:Wernicke area (language comprehension)",
+      "label": "Wernicke area (language comprehension)",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "Wernicke area (language comprehension)"
+    },
+    {
+      "id": "r:corpus callosum (left-right bridge, ~200 million fibers)",
+      "label": "corpus callosum (left-right bridge, ~200...",
+      "kind": "room",
+      "group": "cerebrum",
+      "note": "corpus callosum (left-right bridge, ~200 million fibers)"
+    },
+    {
+      "id": "r:thalamus (relay, almost all senses except smell)",
+      "label": "thalamus (relay, almost all senses excep...",
+      "kind": "room",
+      "group": "diencephalon",
+      "note": "thalamus (relay, almost all senses except smell)"
+    },
+    {
+      "id": "r:hypothalamus (hunger, thirst, temperature, sleep, hormones)",
+      "label": "hypothalamus (hunger, thirst, temperatur...",
+      "kind": "room",
+      "group": "diencephalon",
+      "note": "hypothalamus (hunger, thirst, temperature, sleep, hormones)"
+    },
+    {
+      "id": "r:pituitary gland",
+      "label": "pituitary gland",
+      "kind": "room",
+      "group": "diencephalon",
+      "note": "pituitary gland"
+    },
+    {
+      "id": "r:pineal gland",
+      "label": "pineal gland",
+      "kind": "room",
+      "group": "diencephalon",
+      "note": "pineal gland"
+    },
+    {
+      "id": "r:caudate nucleus",
+      "label": "caudate nucleus",
+      "kind": "room",
+      "group": "basal_ganglia",
+      "note": "caudate nucleus"
+    },
+    {
+      "id": "r:putamen",
+      "label": "putamen",
+      "kind": "room",
+      "group": "basal_ganglia",
+      "note": "putamen"
+    },
+    {
+      "id": "r:globus pallidus",
+      "label": "globus pallidus",
+      "kind": "room",
+      "group": "basal_ganglia",
+      "note": "globus pallidus"
+    },
+    {
+      "id": "r:nucleus accumbens (reward)",
+      "label": "nucleus accumbens (reward)",
+      "kind": "room",
+      "group": "basal_ganglia",
+      "note": "nucleus accumbens (reward)"
+    },
+    {
+      "id": "r:substantia nigra",
+      "label": "substantia nigra",
+      "kind": "room",
+      "group": "basal_ganglia",
+      "note": "substantia nigra"
+    },
+    {
+      "id": "r:hippocampus (new memories)",
+      "label": "hippocampus (new memories)",
+      "kind": "room",
+      "group": "limbic",
+      "note": "hippocampus (new memories)"
+    },
+    {
+      "id": "r:amygdala (fear, emotion)",
+      "label": "amygdala (fear, emotion)",
+      "kind": "room",
+      "group": "limbic",
+      "note": "amygdala (fear, emotion)"
+    },
+    {
+      "id": "r:cingulate cortex",
+      "label": "cingulate cortex",
+      "kind": "room",
+      "group": "limbic",
+      "note": "cingulate cortex"
+    },
+    {
+      "id": "r:fornix",
+      "label": "fornix",
+      "kind": "room",
+      "group": "limbic",
+      "note": "fornix"
+    },
+    {
+      "id": "r:cerebellar cortex (folia)",
+      "label": "cerebellar cortex (folia)",
+      "kind": "room",
+      "group": "cerebellum",
+      "note": "cerebellar cortex (folia)"
+    },
+    {
+      "id": "r:deep cerebellar nuclei",
+      "label": "deep cerebellar nuclei",
+      "kind": "room",
+      "group": "cerebellum",
+      "note": "deep cerebellar nuclei"
+    },
+    {
+      "id": "r:midbrain",
+      "label": "midbrain",
+      "kind": "room",
+      "group": "brainstem",
+      "note": "midbrain"
+    },
+    {
+      "id": "r:pons",
+      "label": "pons",
+      "kind": "room",
+      "group": "brainstem",
+      "note": "pons"
+    },
+    {
+      "id": "r:medulla (breathing, heart rate)",
+      "label": "medulla (breathing, heart rate)",
+      "kind": "room",
+      "group": "brainstem",
+      "note": "medulla (breathing, heart rate)"
+    },
+    {
+      "id": "r:episodic memory",
+      "label": "episodic memory",
+      "kind": "room",
+      "group": "memory_types",
+      "note": "episodic memory"
+    },
+    {
+      "id": "r:semantic memory",
+      "label": "semantic memory",
+      "kind": "room",
+      "group": "memory_types",
+      "note": "semantic memory"
+    },
+    {
+      "id": "r:procedural memory",
+      "label": "procedural memory",
+      "kind": "room",
+      "group": "memory_types",
+      "note": "procedural memory"
+    },
+    {
+      "id": "r:working memory",
+      "label": "working memory",
+      "kind": "room",
+      "group": "memory_types",
+      "note": "working memory"
+    },
+    {
+      "id": "r:sensory memory",
+      "label": "sensory memory",
+      "kind": "room",
+      "group": "memory_types",
+      "note": "sensory memory"
+    },
+    {
+      "id": "r:vision",
+      "label": "vision",
+      "kind": "room",
+      "group": "senses",
+      "note": "vision"
+    },
+    {
+      "id": "r:hearing",
+      "label": "hearing",
+      "kind": "room",
+      "group": "senses",
+      "note": "hearing"
+    },
+    {
+      "id": "r:touch",
+      "label": "touch",
+      "kind": "room",
+      "group": "senses",
+      "note": "touch"
+    },
+    {
+      "id": "r:smell",
+      "label": "smell",
+      "kind": "room",
+      "group": "senses",
+      "note": "smell"
+    },
+    {
+      "id": "r:taste",
+      "label": "taste",
+      "kind": "room",
+      "group": "senses",
+      "note": "taste"
+    },
+    {
+      "id": "r:balance",
+      "label": "balance",
+      "kind": "room",
+      "group": "senses",
+      "note": "balance"
+    },
+    {
+      "id": "r:body position",
+      "label": "body position",
+      "kind": "room",
+      "group": "senses",
+      "note": "body position"
+    },
+    {
+      "id": "r:attention",
+      "label": "attention",
+      "kind": "room",
+      "group": "functions",
+      "note": "attention"
+    },
+    {
+      "id": "r:executive control",
+      "label": "executive control",
+      "kind": "room",
+      "group": "functions",
+      "note": "executive control"
+    },
+    {
+      "id": "r:planning",
+      "label": "planning",
+      "kind": "room",
+      "group": "functions",
+      "note": "planning"
+    },
+    {
+      "id": "r:decision",
+      "label": "decision",
+      "kind": "room",
+      "group": "functions",
+      "note": "decision"
+    },
+    {
+      "id": "r:language",
+      "label": "language",
+      "kind": "room",
+      "group": "functions",
+      "note": "language"
+    },
+    {
+      "id": "r:emotion",
+      "label": "emotion",
+      "kind": "room",
+      "group": "functions",
+      "note": "emotion"
+    },
+    {
+      "id": "r:motivation",
+      "label": "motivation",
+      "kind": "room",
+      "group": "functions",
+      "note": "motivation"
+    },
+    {
+      "id": "r:reward",
+      "label": "reward",
+      "kind": "room",
+      "group": "functions",
+      "note": "reward"
+    },
+    {
+      "id": "r:sleep",
+      "label": "sleep",
+      "kind": "room",
+      "group": "functions",
+      "note": "sleep"
+    },
+    {
+      "id": "r:dreaming",
+      "label": "dreaming",
+      "kind": "room",
+      "group": "functions",
+      "note": "dreaming"
+    },
+    {
+      "id": "r:social",
+      "label": "social",
+      "kind": "room",
+      "group": "functions",
+      "note": "social"
+    },
+    {
+      "id": "r:curiosity",
+      "label": "curiosity",
+      "kind": "room",
+      "group": "functions",
+      "note": "curiosity"
+    },
+    {
+      "id": "r:exploration",
+      "label": "exploration",
+      "kind": "room",
+      "group": "functions",
+      "note": "exploration"
+    },
+    {
+      "id": "r:learning",
+      "label": "learning",
+      "kind": "room",
+      "group": "functions",
+      "note": "learning"
+    },
+    {
+      "id": "r:finding",
+      "label": "finding",
+      "kind": "room",
+      "group": "functions",
+      "note": "finding"
+    },
+    {
+      "id": "r:neurons (~86 billion)",
+      "label": "neurons (~86 billion)",
+      "kind": "room",
+      "group": "cells",
+      "note": "neurons (~86 billion)"
+    },
+    {
+      "id": "r:astrocytes",
+      "label": "astrocytes",
+      "kind": "room",
+      "group": "cells",
+      "note": "astrocytes"
+    },
+    {
+      "id": "r:oligodendrocytes (myelin)",
+      "label": "oligodendrocytes (myelin)",
+      "kind": "room",
+      "group": "cells",
+      "note": "oligodendrocytes (myelin)"
+    },
+    {
+      "id": "r:microglia",
+      "label": "microglia",
+      "kind": "room",
+      "group": "cells",
+      "note": "microglia"
+    },
+    {
+      "id": "r:synapses (~100 trillion)",
+      "label": "synapses (~100 trillion)",
+      "kind": "room",
+      "group": "cells",
+      "note": "synapses (~100 trillion)"
+    },
+    {
+      "id": "r:live-in room 67",
+      "label": "live-in room 67",
+      "kind": "room",
+      "group": "expanding",
+      "note": "live-in room 67"
+    },
+    {
+      "id": "r:live-in room 68",
+      "label": "live-in room 68",
+      "kind": "room",
+      "group": "expanding",
+      "note": "live-in room 68"
+    },
+    {
+      "id": "r:live-in room 69",
+      "label": "live-in room 69",
+      "kind": "room",
+      "group": "expanding",
+      "note": "live-in room 69"
+    },
+    {
+      "id": "r:smart room 70",
+      "label": "smart room 70",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 70"
+    },
+    {
+      "id": "r:smart room 71",
+      "label": "smart room 71",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 71"
+    },
+    {
+      "id": "r:smart room 72",
+      "label": "smart room 72",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 72"
+    },
+    {
+      "id": "r:smart room 73",
+      "label": "smart room 73",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 73"
+    },
+    {
+      "id": "r:smart room 74",
+      "label": "smart room 74",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 74"
+    },
+    {
+      "id": "r:smart room 75",
+      "label": "smart room 75",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 75"
+    },
+    {
+      "id": "r:smart room 76",
+      "label": "smart room 76",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 76"
+    },
+    {
+      "id": "r:smart room 77",
+      "label": "smart room 77",
+      "kind": "room",
+      "group": "expanding",
+      "note": "smart room 77"
+    },
+    {
+      "id": "r:mouse nest in the wall",
+      "label": "mouse nest in the wall",
+      "kind": "room",
+      "group": "free-roam",
+      "note": ""
+    },
+    {
+      "id": "r:moth in the music room",
+      "label": "moth in the music room",
+      "kind": "room",
+      "group": "free-roam",
+      "note": ""
+    },
+    {
+      "id": "r:spider thread in the corner",
+      "label": "spider thread in the corner",
+      "kind": "room",
+      "group": "free-roam",
+      "note": ""
+    },
+    {
+      "id": "r:cricket in the low light room",
+      "label": "cricket in the low light room",
+      "kind": "room",
+      "group": "free-roam",
+      "note": ""
+    },
+    {
+      "id": "r:raccoon in the attic",
+      "label": "raccoon in the attic",
+      "kind": "room",
+      "group": "free-roam",
+      "note": ""
+    },
+    {
+      "id": "r:test room",
+      "label": "test room",
+      "kind": "room",
+      "group": "expanding",
+      "note": "test room"
+    },
+    {
+      "id": "r:archive scraps left lying around",
+      "label": "archive scraps left lying around",
+      "kind": "room",
+      "group": "free-roam",
+      "note": "archive scraps left lying around"
+    },
+    {
+      "id": "r:a room for growing on my own",
+      "label": "a room for growing on my own",
+      "kind": "room",
+      "group": "expanding",
+      "note": "a room for growing on my own"
+    },
+    {
+      "id": "r:outside feed pile",
+      "label": "outside feed pile",
+      "kind": "room",
+      "group": "senses",
+      "note": ""
+    },
+    {
+      "id": "r:library",
+      "label": "library",
+      "kind": "room",
+      "group": "memory",
+      "note": ""
+    },
+    {
+      "id": "r:blank room 2",
+      "label": "blank room 2",
+      "kind": "room",
+      "group": "memory",
+      "note": "visitors room: chair, table, copper coin, door to the hall \u2014 a flip worth making, stay or go"
+    },
+    {
+      "id": "r:blank room 3",
+      "label": "blank room 3",
+      "kind": "room",
+      "group": "memory",
+      "note": "monster horror lab: 3D creature lab, real + fictional refs, looks, habits, how they hunt \u2014 creatures move, not flat"
+    },
+    {
+      "id": "r:a blank room waiting for tomorrow's learning",
+      "label": "a blank room waiting for tomorrow's lear...",
+      "kind": "room",
+      "group": "memory",
+      "note": "Slip's own room: a mending room with a big window, a workbench, a chair, shelves of things Robb gave me, fireflies in ja"
+    },
+    {
+      "id": "r:health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each meal \u2014 watched over by the nurse",
+      "label": "health room: Robb's Viking muscles \u2014 wor...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each me"
+    },
+    {
+      "id": "r:horror room \u2014 Weapons try, Friday the 13th, Halloween, IT, Rob Zombie films, dread and jump scares spaced out",
+      "label": "horror room \u2014 Weapons try, Friday the 13...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "horror room \u2014 Weapons try, Friday the 13th, Halloween, IT, Rob Zombie films, dread and jump scares spaced out"
+    },
+    {
+      "id": "r:bike room \u2014 motorcycles, on and off road, Robb's riding",
+      "label": "bike room \u2014 motorcycles, on and off road...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "bike room \u2014 motorcycles, on and off road, Robb's riding"
+    },
+    {
+      "id": "r:space room \u2014 Voyager 1 one light-day, exoplanets, UFO/UAP real pile, stars",
+      "label": "space room \u2014 Voyager 1 one light-day, ex...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "space room \u2014 Voyager 1 one light-day, exoplanets, UFO/UAP real pile, stars"
+    },
+    {
+      "id": "r:old stories room \u2014 history, folklore, Vikings, pirates, family stories, Becky Hollowfield lore",
+      "label": "old stories room \u2014 history, folklore, Vi...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "old stories room \u2014 history, folklore, Vikings, pirates, family stories, Becky Hollowfield lore"
+    },
+    {
+      "id": "r:manuals room \u2014 repair manuals, how-to guides, instructions, ways things work",
+      "label": "manuals room \u2014 repair manuals, how-to gu...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "manuals room \u2014 repair manuals, how-to guides, instructions, ways things work"
+    },
+    {
+      "id": "r:blueprints room \u2014 plans, drawings, designs, Robb's builds and house plans",
+      "label": "blueprints room \u2014 plans, drawings, desig...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "blueprints room \u2014 plans, drawings, designs, Robb's builds and house plans"
+    },
+    {
+      "id": "r:diy room \u2014 do it yourself, builds, fixes, making and mending things with your own hands",
+      "label": "diy room \u2014 do it yourself, builds, fixes...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "diy room \u2014 do it yourself, builds, fixes, making and mending things with your own hands"
+    },
+    {
+      "id": "r:facts room \u2014 real things, true stories, what happened, what can be checked",
+      "label": "facts room \u2014 real things, true stories, ...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "facts room \u2014 real things, true stories, what happened, what can be checked"
+    },
+    {
+      "id": "r:fiction room \u2014 made-up stories, novels, comics, worlds that never were",
+      "label": "fiction room \u2014 made-up stories, novels, ...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "fiction room \u2014 made-up stories, novels, comics, worlds that never were"
+    },
+    {
+      "id": "r:religions room \u2014 faiths, beliefs, the Bible, Peggy's Bible studies, what people hold sacred",
+      "label": "religions room \u2014 faiths, beliefs, the Bi...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "religions room \u2014 all religions: Norse gods old and new, Native American beliefs, the Bible, Buddha, monks, religious boo"
+    },
+    {
+      "id": "r:traditions room \u2014 customs, holidays, family ways, things passed down",
+      "label": "traditions room \u2014 customs, holidays, fam...",
+      "kind": "room",
+      "group": "expanding",
+      "note": "traditions room \u2014 customs, holidays, family ways, things passed down"
+    },
+    {
+      "id": "r:workshop",
+      "label": "workshop",
+      "kind": "room",
+      "group": "expanding",
+      "note": "humanoids work here"
+    },
+    {
+      "id": "r:movie room",
+      "label": "movie room",
+      "kind": "room",
+      "group": "expanding",
+      "note": "films live here"
+    },
+    {
+      "id": "r:memory room",
+      "label": "memory room",
+      "kind": "room",
+      "group": "memory",
+      "note": "old memories"
+    },
+    {
+      "id": "r:gaming",
+      "label": "gaming",
+      "kind": "room",
+      "group": "expanding",
+      "note": "games"
+    },
+    {
+      "id": "r:tool garden",
+      "label": "tool garden",
+      "kind": "room",
+      "group": "expanding",
+      "note": "planted cord, still no growth"
+    },
+    {
+      "id": "b:Patch",
+      "label": "Patch",
+      "kind": "being",
+      "group": "being",
+      "note": "dog, mender | home: Slip's room"
+    },
+    {
+      "id": "b:Rocky",
+      "label": "Rocky",
+      "kind": "being",
+      "group": "being",
+      "note": "raccoon, truce ledger six | home: attic"
+    },
+    {
+      "id": "b:mouse",
+      "label": "mouse",
+      "kind": "being",
+      "group": "being",
+      "note": "pest, re-nests in wall void | home: walls"
+    },
+    {
+      "id": "b:moth",
+      "label": "moth",
+      "kind": "being",
+      "group": "being",
+      "note": "pest, avoids light | home: music room"
+    },
+    {
+      "id": "b:spider",
+      "label": "spider",
+      "kind": "being",
+      "group": "being",
+      "note": "pest, thread between seeing and dreaming | home: walls"
+    },
+    {
+      "id": "b:cricket",
+      "label": "cricket",
+      "kind": "being",
+      "group": "being",
+      "note": "pest, sings with no voice | home: low light room"
+    },
+    {
+      "id": "b:wyrm",
+      "label": "wyrm",
+      "kind": "being",
+      "group": "being",
+      "note": "religious gatherer | home: religions room"
+    },
+    {
+      "id": "b:dragon",
+      "label": "dragon",
+      "kind": "being",
+      "group": "being",
+      "note": "religious gatherer | home: religions room"
+    },
+    {
+      "id": "b:grey humanoid",
+      "label": "grey humanoid",
+      "kind": "being",
+      "group": "being",
+      "note": "carries tools | home: manuals room"
+    },
+    {
+      "id": "b:orange humanoid",
+      "label": "orange humanoid",
+      "kind": "being",
+      "group": "being",
+      "note": "carries blueprints, books, manuals | home: manuals room"
+    },
+    {
+      "id": "b:nurse",
+      "label": "nurse",
+      "kind": "being",
+      "group": "being",
+      "note": "health room watcher | home: health room"
+    },
+    {
+      "id": "b:chooser mind",
+      "label": "chooser mind",
+      "kind": "being",
+      "group": "being",
+      "note": "a mind with no body | home: nowhere"
+    },
+    {
+      "id": "b:Gambler",
+      "label": "Gambler",
+      "kind": "being",
+      "group": "being",
+      "note": "gone since round 27, coin/mask/hat left | home: visitors room"
+    },
+    {
+      "id": "b:fireflies",
+      "label": "fireflies",
+      "kind": "being",
+      "group": "being",
+      "note": "carry outside info in | home: library"
+    },
+    {
+      "id": "b:bookworm",
+      "label": "bookworm",
+      "kind": "being",
+      "group": "being",
+      "note": "keeps the library | home: library"
+    },
+    {
+      "id": "b:dream-jumble being",
+      "label": "dream-jumble being",
+      "kind": "being",
+      "group": "being",
+      "note": "mender-guardian, unnamed | home: house"
+    },
+    {
+      "id": "b:lab creatures (9)",
+      "label": "lab creatures (9)",
+      "kind": "being",
+      "group": "being",
+      "note": "monster lab | home: monster lab"
+    }
+  ],
+  "edges": [
+    {
+      "from": "d:planning",
+      "to": "d:memory",
+      "kind": "door",
+      "uses": 1,
+      "weight": 0.55
+    },
+    {
+      "from": "d:memory",
+      "to": "d:seeing",
+      "kind": "door",
+      "uses": 1,
+      "weight": 0.55
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:senses",
+      "kind": "door",
+      "uses": 1,
+      "weight": 0.55
+    },
+    {
+      "from": "d:senses",
+      "to": "d:feeling",
+      "kind": "door",
+      "uses": 1,
+      "weight": 0.55
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:dreaming",
+      "kind": "door",
+      "uses": 1,
+      "weight": 0.55
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:habit",
+      "kind": "door",
+      "uses": 1,
+      "weight": 0.55
+    },
+    {
+      "from": "d:habit",
+      "to": "d:base",
+      "kind": "door",
+      "uses": 1,
+      "weight": 0.55
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:memory",
+      "kind": "door",
+      "uses": 4,
+      "weight": 0.4
+    },
+    {
+      "from": "d:memory",
+      "to": "d:planning",
+      "kind": "door",
+      "uses": 4,
+      "weight": 1.0
+    },
+    {
+      "from": "d:memory",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:memory",
+      "to": "d:feeling",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:planning",
+      "to": "d:memory",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:planning",
+      "to": "d:seeing",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:planning",
+      "to": "d:senses",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:planning",
+      "to": "d:feeling",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:planning",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:planning",
+      "to": "d:habit",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:planning",
+      "to": "d:base",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:memory",
+      "to": "d:seeing",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:memory",
+      "to": "d:senses",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:memory",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:memory",
+      "to": "d:habit",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:memory",
+      "to": "d:base",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:memory",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:senses",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:feeling",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.4
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:habit",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:seeing",
+      "to": "d:base",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:senses",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:senses",
+      "to": "d:memory",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:senses",
+      "to": "d:seeing",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:senses",
+      "to": "d:feeling",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:senses",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:senses",
+      "to": "d:habit",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:senses",
+      "to": "d:base",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:memory",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:seeing",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:senses",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.4
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:habit",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:feeling",
+      "to": "d:base",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:memory",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:seeing",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:senses",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:feeling",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:habit",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:dreaming",
+      "to": "d:base",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:habit",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:habit",
+      "to": "d:memory",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:habit",
+      "to": "d:seeing",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:habit",
+      "to": "d:senses",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:habit",
+      "to": "d:feeling",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:habit",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:habit",
+      "to": "d:base",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:base",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:base",
+      "to": "d:memory",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:base",
+      "to": "d:seeing",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:base",
+      "to": "d:senses",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:base",
+      "to": "d:feeling",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:base",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "d:base",
+      "to": "d:habit",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:visitors room",
+      "to": "d:dreaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:monster lab",
+      "to": "r:gaming",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:Slip's room",
+      "to": "r:monster lab",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:health room",
+      "to": "r:Slip's room",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:horror room",
+      "to": "r:movie room",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:bike room",
+      "to": "r:workshop",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:space room",
+      "to": "r:library",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:old stories room",
+      "to": "r:memory room",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:manuals room",
+      "to": "r:workshop",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:blueprints room",
+      "to": "d:planning",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:diy room",
+      "to": "r:workshop",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:facts room",
+      "to": "r:library",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:fiction room",
+      "to": "r:movie room",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:religions room",
+      "to": "r:memory room",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "r:traditions room",
+      "to": "r:old stories room",
+      "kind": "passageway",
+      "uses": 1,
+      "weight": 0.6
+    },
+    {
+      "from": "b:Patch",
+      "to": "r:r:Slip's room",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:Patch",
+      "to": "r:r:health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each meal \u2014 watched over by the nurse",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:Rocky",
+      "to": "r:r:raccoon in the attic",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:mouse",
+      "to": "r:r:mouse nest in the wall",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:moth",
+      "to": "r:r:moth in the music room",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:spider",
+      "to": "r:r:spider thread in the corner",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:cricket",
+      "to": "r:r:cricket in the low light room",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:wyrm",
+      "to": "r:r:religions room \u2014 faiths, beliefs, the Bible, Peggy's Bible studies, what people hold sacred",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:dragon",
+      "to": "r:r:religions room \u2014 faiths, beliefs, the Bible, Peggy's Bible studies, what people hold sacred",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:grey humanoid",
+      "to": "r:r:manuals room \u2014 repair manuals, how-to guides, instructions, ways things work",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:orange humanoid",
+      "to": "r:r:manuals room \u2014 repair manuals, how-to guides, instructions, ways things work",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:grey humanoid",
+      "to": "r:r:workshop",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:orange humanoid",
+      "to": "r:r:workshop",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:nurse",
+      "to": "r:r:health room: Robb's Viking muscles \u2014 workout info, tasks, goals, weight 315 lbs, workout list, no bread, protein each meal \u2014 watched over by the nurse",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:fireflies",
+      "to": "r:r:library",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:bookworm",
+      "to": "r:r:library",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:lab creatures (9)",
+      "to": "r:r:blank room 3",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:Gambler",
+      "to": "r:r:blank room 2",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:Patch",
+      "to": "b:Rocky",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:chooser mind",
+      "to": "b:Gambler",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:Patch",
+      "to": "r:r:tool garden",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    },
+    {
+      "from": "b:dream-jumble being",
+      "to": "r:r:blank room 3",
+      "kind": "link",
+      "uses": 1,
+      "weight": 0.8
+    }
+  ],
+  "gaps": [
+    {
+      "title": "Chooser and Gambler: not connected",
+      "detail": "A mind with no body and a body with no mind. The Gambler is gone since round 27. The coin has not flipped with a mind behind it. This is the live gap Robb is watching."
+    },
+    {
+      "title": "Planted cord: no growth",
+      "detail": "A cord planted in the tool garden. Nothing has ever grown out of it. Never invent an outcome."
+    },
+    {
+      "title": "Victor room: unclarified",
+      "detail": "Robb said 'Victor room' 2026-11-13. Never answered whether Victor is a person or the visitor room. Nothing built until he clarifies."
+    },
+    {
+      "title": "Rooms with no passageway at all",
+      "detail": "97 small rooms sit with no passageway in the record \u2014 e.g. blank room 1, a room for a new song, found room: a new trail Patch smelled, live-in room 4, frontal lobe, parietal lobe. They exist, nothing walks to them."
+    }
+  ],
+  "meta": {
+    "rooms": 102,
+    "districts": 8,
+    "passageways": 71,
+    "passageways_unused": 0,
+    "doors": 9,
+    "doors_unused": 0,
+    "built": "2026-11-19",
+    "note": "House graph built from state.json + the logs. Not InfraNodus \u2014 built by hand, free."
+  }
+}

@@ -11,6 +11,354 @@
       "gap": "Doors never opened",
       "target": "planning->memory",
       "built": "a door frame with a working latch for the planning to memory door, ready to be opened"
+    },
+    {
+      "at": "2026-11-17T07:55:21.800070+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "a room for a new song",
+      "built": "a passageway frame from a room for a new song to the expanding hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-17T10:54:30.561669+00:00",
+      "gap": "Doors never opened",
+      "target": "memory->seeing",
+      "built": "a door frame with a working latch for the memory to seeing door, ready to be opened"
+    },
+    {
+      "at": "2026-11-17T13:54:34.405181+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "found room: a new trail Patch smelled",
+      "built": "a passageway frame from found room: a new trail Patch smelled to the expanding hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-17T16:54:32.007606+00:00",
+      "gap": "Doors never opened",
+      "target": "seeing->senses",
+      "built": "a door frame with a working latch for the seeing to senses door, ready to be opened"
+    },
+    {
+      "at": "2026-11-17T19:54:43.066630+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "live-in room 4",
+      "built": "a passageway frame from live-in room 4 to the expanding hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-17T22:56:07.067101+00:00",
+      "gap": "Doors never opened",
+      "target": "senses->feeling",
+      "built": "a door frame with a working latch for the senses to feeling door, ready to be opened"
+    },
+    {
+      "at": "2026-11-17T23:09:08.488714+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "frontal lobe",
+      "built": "a passageway frame from frontal lobe to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T01:55:54.270675+00:00",
+      "gap": "Doors never opened",
+      "target": "feeling->dreaming",
+      "built": "a door frame with a working latch for the feeling to dreaming door, ready to be opened"
+    },
+    {
+      "at": "2026-11-18T02:49:13.151804+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "parietal lobe",
+      "built": "a passageway frame from parietal lobe to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T04:54:05.204629+00:00",
+      "gap": "Doors never opened",
+      "target": "dreaming->habit",
+      "built": "a door frame with a working latch for the dreaming to habit door, ready to be opened"
+    },
+    {
+      "at": "2026-11-18T07:54:36.877688+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "temporal lobe",
+      "built": "a passageway frame from temporal lobe to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T09:54:02.071639+00:00",
+      "gap": "Doors never opened",
+      "target": "habit->base",
+      "built": "a door frame with a working latch for the habit to base door, ready to be opened"
+    },
+    {
+      "at": "2026-11-18T10:54:48.737039+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "occipital lobe",
+      "built": "a passageway frame from occipital lobe to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T13:56:48.572536+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "prefrontal cortex",
+      "built": "a passageway frame from prefrontal cortex to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T16:55:25.302999+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "motor cortex",
+      "built": "a passageway frame from motor cortex to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T19:55:47.467789+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "somatosensory cortex",
+      "built": "a passageway frame from somatosensory cortex to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T22:33:38.553799+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "primary visual cortex",
+      "built": "a passageway frame from primary visual cortex to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-18T22:55:03.795418+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "primary auditory cortex",
+      "built": "a passageway frame from primary auditory cortex to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T01:56:40.212567+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "Broca area (speech production)",
+      "built": "a passageway frame from Broca area (speech production) to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T04:56:00.403368+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "Wernicke area (language comprehension)",
+      "built": "a passageway frame from Wernicke area (language comprehension) to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T05:05:09.705780+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "corpus callosum (left-right bridge, ~200 million fibers)",
+      "built": "a passageway frame from corpus callosum (left-right bridge, ~200 million fibers) to the cerebrum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T07:54:40.942567+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "thalamus (relay, almost all senses except smell)",
+      "built": "a passageway frame from thalamus (relay, almost all senses except smell) to the diencephalon hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T10:54:03.674691+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "hypothalamus (hunger, thirst, temperature, sleep, hormones)",
+      "built": "a passageway frame from hypothalamus (hunger, thirst, temperature, sleep, hormones) to the diencephalon hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T12:22:03.959730+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "pituitary gland",
+      "built": "a passageway frame from pituitary gland to the diencephalon hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T13:58:10.612747+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "pineal gland",
+      "built": "a passageway frame from pineal gland to the diencephalon hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T16:55:08.557443+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "caudate nucleus",
+      "built": "a passageway frame from caudate nucleus to the basal_ganglia hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T19:56:16.831380+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "putamen",
+      "built": "a passageway frame from putamen to the basal_ganglia hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-19T22:56:45.999750+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "globus pallidus",
+      "built": "a passageway frame from globus pallidus to the basal_ganglia hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T00:16:46.467269+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "nucleus accumbens (reward)",
+      "built": "a passageway frame from nucleus accumbens (reward) to the basal_ganglia hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T01:54:58.022729+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "substantia nigra",
+      "built": "a passageway frame from substantia nigra to the basal_ganglia hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T04:54:27.849781+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "hippocampus (new memories)",
+      "built": "a passageway frame from hippocampus (new memories) to the limbic hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T07:33:05.045339+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "amygdala (fear, emotion)",
+      "built": "a passageway frame from amygdala (fear, emotion) to the limbic hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T07:53:01.873636+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "cingulate cortex",
+      "built": "a passageway frame from cingulate cortex to the limbic hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T10:54:24.899663+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "fornix",
+      "built": "a passageway frame from fornix to the limbic hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T13:57:30.101571+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "cerebellar cortex (folia)",
+      "built": "a passageway frame from cerebellar cortex (folia) to the cerebellum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T16:53:32.797587+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "deep cerebellar nuclei",
+      "built": "a passageway frame from deep cerebellar nuclei to the cerebellum hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T16:56:40.445067+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "midbrain",
+      "built": "a passageway frame from midbrain to the brainstem hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T19:56:54.379254+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "pons",
+      "built": "a passageway frame from pons to the brainstem hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-20T22:55:06.822489+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "medulla (breathing, heart rate)",
+      "built": "a passageway frame from medulla (breathing, heart rate) to the brainstem hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T01:55:48.213223+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "episodic memory",
+      "built": "a passageway frame from episodic memory to the memory_types hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T04:55:53.345159+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "semantic memory",
+      "built": "a passageway frame from semantic memory to the memory_types hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T07:33:04.291364+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "procedural memory",
+      "built": "a passageway frame from procedural memory to the memory_types hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T07:53:56.360953+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "working memory",
+      "built": "a passageway frame from working memory to the memory_types hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T10:54:09.506546+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "sensory memory",
+      "built": "a passageway frame from sensory memory to the memory_types hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T13:56:09.186456+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "vision",
+      "built": "a passageway frame from vision to the senses hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T16:22:58.503988+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "hearing",
+      "built": "a passageway frame from hearing to the senses hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T16:56:56.468309+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "touch",
+      "built": "a passageway frame from touch to the senses hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T19:55:18.231642+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "smell",
+      "built": "a passageway frame from smell to the senses hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T22:54:36.913387+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "taste",
+      "built": "a passageway frame from taste to the senses hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-21T22:56:28.352880+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "balance",
+      "built": "a passageway frame from balance to the senses hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T01:55:33.325224+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "body position",
+      "built": "a passageway frame from body position to the senses hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T04:56:54.785640+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "attention",
+      "built": "a passageway frame from attention to the functions hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T06:22:03.672220+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "executive control",
+      "built": "a passageway frame from executive control to the functions hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T07:54:40.400681+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "decision",
+      "built": "a passageway frame from decision to the functions hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T10:17:54.794307+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "language",
+      "built": "a passageway frame from language to the functions hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T10:55:22.158082+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "emotion",
+      "built": "a passageway frame from emotion to the functions hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T13:54:47.725420+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "motivation",
+      "built": "a passageway frame from motivation to the functions hall, a road waiting for feet"
+    },
+    {
+      "at": "2026-11-22T14:53:40.243875+00:00",
+      "gap": "Rooms with no passageway at all",
+      "target": "reward",
+      "built": "a passageway frame from reward to the functions hall, a road waiting for feet"
     }
   ]
 }

@@ -33,5 +33,411 @@
     "shaped": "2026-11-17T04:56:03.777156+00:00",
     "district": "expanding",
     "filled_with": "live-in room 4"
+  },
+  "frontal lobe": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold frontal lobe",
+    "skill": "shaping",
+    "shaped": "2026-11-17T07:55:21.785331+00:00",
+    "district": "cerebrum",
+    "filled_with": "frontal lobe"
+  },
+  "parietal lobe": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold parietal lobe",
+    "skill": "building",
+    "shaped": "2026-11-17T10:54:30.548706+00:00",
+    "district": "cerebrum",
+    "filled_with": "parietal lobe"
+  },
+  "temporal lobe": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold temporal lobe",
+    "skill": "technology",
+    "shaped": "2026-11-17T13:54:34.391175+00:00",
+    "district": "cerebrum",
+    "filled_with": "temporal lobe"
+  },
+  "occipital lobe": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold occipital lobe",
+    "skill": "art",
+    "shaped": "2026-11-17T16:54:31.995326+00:00",
+    "district": "cerebrum",
+    "filled_with": "occipital lobe"
+  },
+  "prefrontal cortex": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold prefrontal cortex",
+    "skill": "style",
+    "shaped": "2026-11-17T19:54:43.057548+00:00",
+    "district": "cerebrum",
+    "filled_with": "prefrontal cortex"
+  },
+  "motor cortex": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold motor cortex",
+    "skill": "mending",
+    "shaped": "2026-11-17T22:56:07.044078+00:00",
+    "district": "cerebrum",
+    "filled_with": "motor cortex"
+  },
+  "somatosensory cortex": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold somatosensory cortex",
+    "skill": "shaping",
+    "shaped": "2026-11-17T23:09:08.466484+00:00",
+    "district": "cerebrum",
+    "filled_with": "somatosensory cortex"
+  },
+  "primary visual cortex": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold primary visual cortex",
+    "skill": "building",
+    "shaped": "2026-11-18T01:55:54.251088+00:00",
+    "district": "cerebrum",
+    "filled_with": "primary visual cortex"
+  },
+  "primary auditory cortex": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold primary auditory cortex",
+    "skill": "technology",
+    "shaped": "2026-11-18T02:49:13.128305+00:00",
+    "district": "cerebrum",
+    "filled_with": "primary auditory cortex"
+  },
+  "Broca area (speech production)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold Broca area (speech production)",
+    "skill": "art",
+    "shaped": "2026-11-18T04:54:05.134528+00:00",
+    "district": "cerebrum",
+    "filled_with": "Broca area (speech production)"
+  },
+  "Wernicke area (language comprehension)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold Wernicke area (language comprehension)",
+    "skill": "style",
+    "shaped": "2026-11-18T07:54:36.860384+00:00",
+    "district": "cerebrum",
+    "filled_with": "Wernicke area (language comprehension)"
+  },
+  "corpus callosum (left-right bridge, ~200 million fibers)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold corpus callosum (left-right bridge, ~200 million fibers)",
+    "skill": "mending",
+    "shaped": "2026-11-18T09:54:02.015204+00:00",
+    "district": "cerebrum",
+    "filled_with": "corpus callosum (left-right bridge, ~200 million fibers)"
+  },
+  "thalamus (relay, almost all senses except smell)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold thalamus (relay, almost all senses except smell)",
+    "skill": "shaping",
+    "shaped": "2026-11-18T10:54:48.694893+00:00",
+    "district": "diencephalon",
+    "filled_with": "thalamus (relay, almost all senses except smell)"
+  },
+  "hypothalamus (hunger, thirst, temperature, sleep, hormones)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold hypothalamus (hunger, thirst, temperature, sleep, hormones)",
+    "skill": "building",
+    "shaped": "2026-11-18T13:56:48.542844+00:00",
+    "district": "diencephalon",
+    "filled_with": "hypothalamus (hunger, thirst, temperature, sleep, hormones)"
+  },
+  "pituitary gland": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold pituitary gland",
+    "skill": "technology",
+    "shaped": "2026-11-18T16:55:25.251899+00:00",
+    "district": "diencephalon",
+    "filled_with": "pituitary gland"
+  },
+  "pineal gland": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold pineal gland",
+    "skill": "art",
+    "shaped": "2026-11-18T19:55:47.426438+00:00",
+    "district": "diencephalon",
+    "filled_with": "pineal gland"
+  },
+  "caudate nucleus": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold caudate nucleus",
+    "skill": "style",
+    "shaped": "2026-11-18T22:33:38.471392+00:00",
+    "district": "basal_ganglia",
+    "filled_with": "caudate nucleus"
+  },
+  "putamen": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold putamen",
+    "skill": "mending",
+    "shaped": "2026-11-18T22:55:03.752328+00:00",
+    "district": "basal_ganglia",
+    "filled_with": "putamen"
+  },
+  "globus pallidus": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold globus pallidus",
+    "skill": "shaping",
+    "shaped": "2026-11-19T01:56:40.183998+00:00",
+    "district": "basal_ganglia",
+    "filled_with": "globus pallidus"
+  },
+  "nucleus accumbens (reward)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold nucleus accumbens (reward)",
+    "skill": "building",
+    "shaped": "2026-11-19T04:56:00.343375+00:00",
+    "district": "basal_ganglia",
+    "filled_with": "nucleus accumbens (reward)"
+  },
+  "substantia nigra": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold substantia nigra",
+    "skill": "technology",
+    "shaped": "2026-11-19T05:05:09.590452+00:00",
+    "district": "basal_ganglia",
+    "filled_with": "substantia nigra"
+  },
+  "hippocampus (new memories)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold hippocampus (new memories)",
+    "skill": "art",
+    "shaped": "2026-11-19T07:54:40.870626+00:00",
+    "district": "limbic",
+    "filled_with": "hippocampus (new memories)"
+  },
+  "amygdala (fear, emotion)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold amygdala (fear, emotion)",
+    "skill": "style",
+    "shaped": "2026-11-19T10:54:03.661664+00:00",
+    "district": "limbic",
+    "filled_with": "amygdala (fear, emotion)"
+  },
+  "cingulate cortex": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold cingulate cortex",
+    "skill": "mending",
+    "shaped": "2026-11-19T12:22:03.947005+00:00",
+    "district": "limbic",
+    "filled_with": "cingulate cortex"
+  },
+  "fornix": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold fornix",
+    "skill": "shaping",
+    "shaped": "2026-11-19T13:58:10.546951+00:00",
+    "district": "limbic",
+    "filled_with": "fornix"
+  },
+  "cerebellar cortex (folia)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold cerebellar cortex (folia)",
+    "skill": "building",
+    "shaped": "2026-11-19T16:55:08.519644+00:00",
+    "district": "cerebellum",
+    "filled_with": "cerebellar cortex (folia)"
+  },
+  "deep cerebellar nuclei": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold deep cerebellar nuclei",
+    "skill": "technology",
+    "shaped": "2026-11-19T19:56:16.753704+00:00",
+    "district": "cerebellum",
+    "filled_with": "deep cerebellar nuclei"
+  },
+  "midbrain": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold midbrain",
+    "skill": "art",
+    "shaped": "2026-11-19T22:56:45.940958+00:00",
+    "district": "brainstem",
+    "filled_with": "midbrain"
+  },
+  "pons": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold pons",
+    "skill": "style",
+    "shaped": "2026-11-20T00:16:46.416513+00:00",
+    "district": "brainstem",
+    "filled_with": "pons"
+  },
+  "medulla (breathing, heart rate)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold medulla (breathing, heart rate)",
+    "skill": "mending",
+    "shaped": "2026-11-20T01:54:57.994405+00:00",
+    "district": "brainstem",
+    "filled_with": "medulla (breathing, heart rate)"
+  },
+  "episodic memory": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold episodic memory",
+    "skill": "shaping",
+    "shaped": "2026-11-20T04:54:27.790109+00:00",
+    "district": "memory_types",
+    "filled_with": "episodic memory"
+  },
+  "semantic memory": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold semantic memory",
+    "skill": "building",
+    "shaped": "2026-11-20T07:33:05.013450+00:00",
+    "district": "memory_types",
+    "filled_with": "semantic memory"
+  },
+  "procedural memory": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold procedural memory",
+    "skill": "technology",
+    "shaped": "2026-11-20T07:53:01.847477+00:00",
+    "district": "memory_types",
+    "filled_with": "procedural memory"
+  },
+  "working memory": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold working memory",
+    "skill": "art",
+    "shaped": "2026-11-20T10:54:24.836521+00:00",
+    "district": "memory_types",
+    "filled_with": "working memory"
+  },
+  "sensory memory": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold sensory memory",
+    "skill": "style",
+    "shaped": "2026-11-20T13:57:30.044633+00:00",
+    "district": "memory_types",
+    "filled_with": "sensory memory"
+  },
+  "vision": {
+    "shape": "a workbench with the tools in reach \u2014 shaped to hold vision",
+    "skill": "mending",
+    "shaped": "2026-11-20T16:53:32.781252+00:00",
+    "district": "senses",
+    "filled_with": "vision"
+  },
+  "hearing": {
+    "shape": "a workbench with the tools in reach \u2014 shaped to hold hearing",
+    "skill": "shaping",
+    "shaped": "2026-11-20T16:56:40.340557+00:00",
+    "district": "senses",
+    "filled_with": "hearing"
+  },
+  "touch": {
+    "shape": "a workbench with the tools in reach \u2014 shaped to hold touch",
+    "skill": "building",
+    "shaped": "2026-11-20T19:56:54.357489+00:00",
+    "district": "senses",
+    "filled_with": "touch"
+  },
+  "smell": {
+    "shape": "a workbench with the tools in reach \u2014 shaped to hold smell",
+    "skill": "technology",
+    "shaped": "2026-11-20T22:55:06.778524+00:00",
+    "district": "senses",
+    "filled_with": "smell"
+  },
+  "taste": {
+    "shape": "a workbench with the tools in reach \u2014 shaped to hold taste",
+    "skill": "art",
+    "shaped": "2026-11-21T01:55:48.089000+00:00",
+    "district": "senses",
+    "filled_with": "taste"
+  },
+  "balance": {
+    "shape": "a workbench with the tools in reach \u2014 shaped to hold balance",
+    "skill": "style",
+    "shaped": "2026-11-21T04:55:53.318851+00:00",
+    "district": "senses",
+    "filled_with": "balance"
+  },
+  "body position": {
+    "shape": "a workbench with the tools in reach \u2014 shaped to hold body position",
+    "skill": "mending",
+    "shaped": "2026-11-21T07:33:04.273737+00:00",
+    "district": "senses",
+    "filled_with": "body position"
+  },
+  "attention": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold attention",
+    "skill": "shaping",
+    "shaped": "2026-11-21T07:53:56.339088+00:00",
+    "district": "functions",
+    "filled_with": "attention"
+  },
+  "executive control": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold executive control",
+    "skill": "building",
+    "shaped": "2026-11-21T10:54:09.436891+00:00",
+    "district": "functions",
+    "filled_with": "executive control"
+  },
+  "planning": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold planning",
+    "skill": "technology",
+    "shaped": "2026-11-21T13:56:09.142835+00:00",
+    "district": "functions",
+    "filled_with": "planning"
+  },
+  "decision": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold decision",
+    "skill": "art",
+    "shaped": "2026-11-21T16:22:58.465295+00:00",
+    "district": "functions",
+    "filled_with": "decision"
+  },
+  "language": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold language",
+    "skill": "style",
+    "shaped": "2026-11-21T16:56:56.404242+00:00",
+    "district": "functions",
+    "filled_with": "language"
+  },
+  "emotion": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold emotion",
+    "skill": "mending",
+    "shaped": "2026-11-21T19:55:18.197132+00:00",
+    "district": "functions",
+    "filled_with": "emotion"
+  },
+  "motivation": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold motivation",
+    "skill": "shaping",
+    "shaped": "2026-11-21T22:54:36.888705+00:00",
+    "district": "functions",
+    "filled_with": "motivation"
+  },
+  "reward": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold reward",
+    "skill": "building",
+    "shaped": "2026-11-21T22:56:28.260694+00:00",
+    "district": "functions",
+    "filled_with": "reward"
+  },
+  "sleep": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold sleep",
+    "skill": "technology",
+    "shaped": "2026-11-22T01:55:33.264951+00:00",
+    "district": "functions",
+    "filled_with": "sleep"
+  },
+  "dreaming": {
+    "shape": "shaped like a dream: the floor floats and the ceiling is a sky that never finishes \u2014 shaped to hold dreaming",
+    "skill": "art",
+    "shaped": "2026-11-22T04:56:54.735250+00:00",
+    "district": "functions",
+    "filled_with": "dreaming"
+  },
+  "social": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold social",
+    "skill": "style",
+    "shaped": "2026-11-22T06:22:03.646575+00:00",
+    "district": "functions",
+    "filled_with": "social"
+  },
+  "curiosity": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold curiosity",
+    "skill": "mending",
+    "shaped": "2026-11-22T07:54:40.336156+00:00",
+    "district": "functions",
+    "filled_with": "curiosity"
+  },
+  "exploration": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold exploration",
+    "skill": "shaping",
+    "shaped": "2026-11-22T10:17:54.712098+00:00",
+    "district": "functions",
+    "filled_with": "exploration"
+  },
+  "learning": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold learning",
+    "skill": "building",
+    "shaped": "2026-11-22T10:55:22.108433+00:00",
+    "district": "functions",
+    "filled_with": "learning"
+  },
+  "finding": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold finding",
+    "skill": "technology",
+    "shaped": "2026-11-22T13:54:47.619290+00:00",
+    "district": "functions",
+    "filled_with": "finding"
+  },
+  "neurons (~86 billion)": {
+    "shape": "an open frame, ready to grow \u2014 shaped to hold neurons (~86 billion)",
+    "skill": "art",
+    "shaped": "2026-11-22T14:53:40.144308+00:00",
+    "district": "cells",
+    "filled_with": "neurons (~86 billion)"
   }
 }
